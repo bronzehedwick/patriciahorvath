@@ -81,7 +81,19 @@ html {
 	box-sizing:         border-box;
 }
 body {
-	background: #fff; /* Fallback for when there is no custom background color defined. */
+	height: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url(/wp-content/themes/patriciahorvath/images/patth_background.jpg);
+}
+@media screen and (max-width: 600px) {
+	body {
+		background-image: none;
+		background-color: #958182;
+	}
 }
 article,
 aside,
@@ -133,7 +145,7 @@ input,
 select,
 textarea {
 	color: #404040;
-	font-family: sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	font-size: 1.6rem;
 	line-height: 1.5;
@@ -259,7 +271,7 @@ input[type="button"],
 input[type="reset"],
 input[type="submit"] {
 	border: 1px solid;
-	border-color: #ccc #ccc #bbb; 
+	border-color: #ccc #ccc #bbb;
 	border-radius: 3px;
 	background: #e6e6e6;
 	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5), inset 0 15px 17px rgba(255, 255, 255, 0.5), inset 0 -5px 12px rgba(0, 0, 0, 0.05);
