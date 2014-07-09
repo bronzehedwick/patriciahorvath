@@ -35,4 +35,6 @@
 		</nav><!-- #site-navigation -->
 	</header><!-- #masthead -->
 
+	<?php $about = get_post(11); ?>
 	<div id="content" class="site-content">
+		<div id="about"><?php echo $about->post_content; ?></div>
