@@ -210,6 +210,9 @@ small {
 big {
 	font-size: 125%;
 }
+.entry-title {
+	font-size: 24px;
+}
 
 /*--------------------------------------------------------------
 3.0 Elements
@@ -394,10 +397,29 @@ a:active {
 .main-navigation li {
 	float: left;
 	position: relative;
+	display: block;
+	font-weight: bold;
+	border: 2px solid #fff;
+	-webkit-border-radius: 20px 20px 20px 0;
+	border-radius: 20px 20px 20px 0;
+	background-color: rgb(255,255,255);
+	background-color: rgba(255,255,255,0.6);
+	-moz-transition: border-color 1s;
+	-webkit-transition: border-color 1s;
+	transition: border-color 1s;
+	margin-right: 10px;
+	margin-bottom: 15px;
+}
+.main-navigation li:hover {
+	border: 2px solid #3F5E23;
+	-moz-transition: border-color 1s;
+	-webkit-transition: border-color 1s;
+	transition: border-color 1s;
 }
 .main-navigation a {
 	display: block;
 	text-decoration: none;
+	padding: 5px;
 }
 .main-navigation ul ul {
 	box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
@@ -430,6 +452,7 @@ a:active {
 }
 .main-navigation .current_page_item a,
 .main-navigation .current-menu-item a {
+	color: #742F78;
 }
 /* Small menu */
 .menu-toggle {
@@ -463,6 +486,48 @@ a:active {
 	float: right;
 	text-align: right;
 	width: 50%;
+}
+/* Homepage menu */
+.home .main-navigation ul {
+	position: relative;
+}
+.home .main-navigation li {
+	display: block;
+	font-weight: bold;
+	position: absolute;
+	border: 2px solid #fff;
+	-webkit-border-radius: 20px 20px 20px 0;
+	border-radius: 20px 20px 20px 0;
+	background-color: rgb(255,255,255);
+	background-color: rgba(255,255,255,0.6);
+	-moz-transition: border-color 1s;
+	-webkit-transition: border-color 1s;
+	transition: border-color 1s;
+}
+.home .main-navigation li:hover {
+	border: 2px solid #3F5E23;
+	-moz-transition: border-color 1s;
+	-webkit-transition: border-color 1s;
+	transition: border-color 1s;
+}
+.home .main-navigation li:nth-child(1) {
+	top: 60px;
+	left: 100px;
+}
+.home .main-navigation li:nth-child(2) {
+	top: 220px;
+	left: 330px;
+}
+.home .main-navigation li:nth-child(3) {
+	top: 325px;
+	left: 30px;
+}
+.home .main-navigation li:nth-child(4) {
+	top: 40px;
+	left: 545px;
+}
+.home .main-navigation li a {
+	padding: 15px;
 }
 
 /*--------------------------------------------------------------
@@ -724,3 +789,18 @@ object {
 .site-title a:hover {
 	color: #742F78;
 }
+
+/*--------------------------------------------------------------
+15.0 Homepage
+--------------------------------------------------------------*/
+.home #main {
+	display: none;
+}
+.home #colophon {
+	position: absolute;
+	top: 600px;
+}
+
+/*--------------------------------------------------------------
+16.0 Misc
+--------------------------------------------------------------*/

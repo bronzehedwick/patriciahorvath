@@ -37,4 +37,4 @@
 
 	<?php $about = get_post(11); ?>
 	<div id="content" class="site-content">
-		<div id="about"><?php echo $about->post_content; ?></div>
+		<div style="display:none;" id="about"><?php echo $about->post_content; ?></div>
