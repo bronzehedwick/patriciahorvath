@@ -367,10 +367,11 @@ textarea {
 --------------------------------------------------------------*/
 a {
 	text-decoration: none;
+	border-bottom: #fff 1px dotted;
 }
 a:link,
 a:visited {
-	color: #3F5E23;
+	color: #fff;
 	-moz-transition: color 1s;
 	-webkit-transition: color 1s;
 	transition: color 1s;
@@ -392,6 +393,7 @@ a:active {
 	display: block;
 	float: left;
 	width: 100%;
+	margin-top: 20px;
 }
 .main-navigation ul {
 	list-style: none;
@@ -424,6 +426,19 @@ a:active {
 	display: block;
 	text-decoration: none;
 	padding: 5px;
+	color: #3F5E23;
+	border-bottom: none;
+	-moz-transition: color 1s;
+	-webkit-transition: color 1s;
+	transition: color 1s;
+}
+.main-navigation a:hover,
+.main-navigation a:focus,
+.main-navigation a:active {
+	color: #742F78;
+	-moz-transition: color 0.3s;
+	-webkit-transition: color 0.3s;
+	transition: color 0.3s;
 }
 .main-navigation ul ul {
 	box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
@@ -647,6 +662,7 @@ a:active {
 .entry-content,
 .entry-summary {
 	margin: 1.5em 0 0;
+	max-width: 640px;
 }
 .page-links {
 	clear: both;
@@ -782,6 +798,7 @@ object {
 .site-title a:link,
 .site-title a:visited {
 	color: #fff;
+	border-bottom: none;
 }
 .site-title a:active,
 .site-title a:focus,
