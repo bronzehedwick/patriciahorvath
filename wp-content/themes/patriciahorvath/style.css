@@ -44,6 +44,10 @@ and Blueprint http://www.blueprintcss.org/
 12.0 - Media
 	12.1 - Captions
 	12.2 - Galleries
+13.0 - Page content
+14.0 - Headings
+15.0 - Homepage
+16.0 - Misc
 --------------------------------------------------------------*/
 
 /*--------------------------------------------------------------
@@ -456,12 +460,13 @@ a:active {
 }
 /* Homepage menu */
 .home .main-navigation ul {
-	position: relative;
+	margin-top: 20px;
 }
 .home .main-navigation li {
+	float: none;
+	width: 200px;
 	display: block;
 	font-weight: bold;
-	position: absolute;
 	border: 2px solid #fff;
 	-webkit-border-radius: 20px 20px 20px 0;
 	border-radius: 20px 20px 20px 0;
@@ -477,22 +482,6 @@ a:active {
 	-webkit-transition: border-color 1s;
 	transition: border-color 1s;
 }
-.home .main-navigation li:nth-child(1) {
-	top: 60px;
-	left: 100px;
-}
-.home .main-navigation li:nth-child(2) {
-	top: 220px;
-	left: 330px;
-}
-.home .main-navigation li:nth-child(3) {
-	top: 325px;
-	left: 30px;
-}
-.home .main-navigation li:nth-child(4) {
-	top: 40px;
-	left: 390px;
-}
 .home .main-navigation li a {
 	padding: 15px;
 }
@@ -505,6 +494,9 @@ a:active {
 	.main-navigation.toggled .nav-menu {
 		display: block;
 	}
+	.menu-toggle {
+		margin-top: 20px;
+	}
 
 	.main-navigation ul {
 		display: none;
@@ -512,8 +504,7 @@ a:active {
 	}
 
 	.home .main-navigation li {
-		position: static;
-		float: none;
+		width: 100%;
 	}
 }
 .site-main .comment-navigation,
@@ -785,6 +776,8 @@ object {
 .site-title {
 	font-size: 36px;
 	margin-bottom: 10px;
+	position: relative;
+	top: 25px;
 }
 .site-title a:link,
 .site-title a:visited {
