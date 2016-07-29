@@ -662,7 +662,6 @@ a:active {
 .entry-content,
 .entry-summary {
 	margin: 1.5em 0 0;
-	max-width: 550px;
 }
 .page-links {
 	clear: both;
@@ -777,10 +776,15 @@ object {
 13.0 Page content
 --------------------------------------------------------------*/
 #page {
-	width: 50%;
+	width: 100%;
 	padding: 10px;
 }
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 1040px) {
+	#page {
+		width: 53%;
+	}
+}
+@media screen and (max-width: 900px) {
 	#page {
 		width: 100%;
 	}
