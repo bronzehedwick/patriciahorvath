@@ -598,6 +598,7 @@ a:active {
 	.alignright,
 	.alignleft {
 		float: none;
+		display: block;
 	}
 }
 
