@@ -594,6 +594,13 @@ a:active {
 	margin: 0 auto;
 }
 
+@media screen and (max-width: 451px) {
+	.alignright,
+	.alignleft {
+		float: none;
+	}
+}
+
 /*--------------------------------------------------------------
 8.0 Clearings
 --------------------------------------------------------------*/
@@ -662,6 +669,7 @@ a:active {
 .entry-content,
 .entry-summary {
 	margin: 1.5em 0 0;
+	max-width: 560px;
 }
 .page-links {
 	clear: both;
