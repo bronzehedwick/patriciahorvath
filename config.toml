@@ -18,7 +18,7 @@ theme = "patti"
   identifier = "teaching"
   url = "/teaching/"
 [[ menu.main ]]
-  name = "Grants and awards"
+  name = "Grants and Awards"
   weight = 30
   identifier = "grants-and-awards"
   url = "/grants-and-awards/"
