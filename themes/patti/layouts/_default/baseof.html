@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Site.Title }}</title>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    {{ if .RSSlink }}
+      <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+      <link href="{{ .RSSlink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+    {{ end }}
+    <link rel='stylesheet' id='cntctfrm_form_style-css'  href='http://patricialhorvath.com/wp-content/plugins/contact-form-plugin/css/form_style.css?ver=4.0.2' type='text/css' media='all' />
+    <link rel='stylesheet' id='patriciahorvath-style-css'  href='http://patricialhorvath.com/wp-content/themes/patriciahorvath/style.css?ver=4.6' type='text/css' media='all' />
+    <link rel='https://api.w.org/' href='http://patricialhorvath.com/wp-json/' />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://patricialhorvath.com/xmlrpc.php?rsd" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://patricialhorvath.com/wp-includes/wlwmanifest.xml" />
+    <link rel="canonical" href="http://patricialhorvath.com/" />
+    <link rel='shortlink' href='http://patricialhorvath.com/' />
+    <link rel="alternate" type="application/json+oembed" href="http://patricialhorvath.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpatricialhorvath.com%2F" />
+    <link rel="alternate" type="text/xml+oembed" href="http://patricialhorvath.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpatricialhorvath.com%2F&#038;format=xml" />
+    <style type="text/css" id="custom-background-css">
+      body.custom-background { background-color: #958182; }
+    </style>
+    {{ .Hugo.Generator }}
+  </head>
+
+  <body class="{{ if .IsHome }}home{{ end }} page page-id-23 page-template-default custom-background">
+    <div id="page" class="hfeed site">
+      <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+      <header id="masthead" class="site-header" role="banner">
+        <div class="site-branding">
+          <h1 class="site-title"><a href="{{ .Site.BaseURL }}" rel="home">{{ .Site.Title }}</a></h1>
+        </div>
+
+        <nav id="site-navigation" class="main-navigation" role="navigation">
+          <button class="menu-toggle">Primary Menu</button>
+          <div class="menu-menu-1-container">
+            <ul id="menu-menu-1" class="menu">
+              {{ range .Site.Menus.main }}
+                <li id="menu-item-{{ .Weight }}" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-{{ .Weight }}">
+                  <a href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+              {{ end }}
+            </ul>
+          </div>
+        </nav><!-- #site-navigation -->
+      </header><!-- #masthead -->
+
+      <div id="content" class="site-content">
+        <div style="display:none;" id="about">
+          <a href="http://patricialhorvath.com/wp-content/uploads/2014/07/Patti_Bio_pic.jpg">
+            <img class="alignleft wp-image-47 size-medium" src="http://patricialhorvath.com/wp-content/uploads/2014/07/Patti_Bio_pic-200x300.jpg" alt="" width="200" height="300" />
+          </a>
+          Patricia Horvath's essays and stories have appeared in numerous literary journals, including <em>The Massachusetts Review</em>, <em>The Los Angeles Review</em>, <em>New Ohio Review,</em> <em>Shenandoah, Confrontation, The Laurel Review, 2 Bridges Review, </em>and<em> Cream City Review</em>. She is the recipient of the <em>Bellevue Literary Review's</em> Goldenberg Prize in Fiction for a story that was accorded a Special Mention in the 2013 Pushcart Prize anthology. Her memoir <em>All the Difference </em>(Etruscan Press), for which she received fellowships from The New York Foundation for the Arts and the Barbara Deming Memorial Fund, explores the connection between disability and self-identity and what happens to one's sense of self when a physical disability ceases to be visible.  She teaches at Framingham State University, Massachusetts and is an editor at <em>The Massachusetts Review.</em>
+        </div>
+
+        <div id="primary" class="content-area">
+          <main id="main" class="site-main" role="main">
+
+
+            <article id="post-58" class="post-58 page type-page status-publish hentry">
+              <header class="entry-header">
+                {{ block "contentheader" . }}
+                  <h1 class="entry-title">{{ .Title }}</h1>
+                {{ end }}
+              </header><!-- .entry-header -->
+
+              <div class="entry-content">
+                {{ block "content" . }}
+                {{ end }}
+              </div><!-- .entry-content -->
+            </article><!-- #post-## -->
+
+
+          </main><!-- #main -->
+        </div><!-- #primary -->
+
+
+      </div><!-- #content -->
+
+    </div><!-- #page -->
+
+    <script type='text/javascript' src='http://patricialhorvath.com/wp-content/themes/patriciahorvath/js/navigation.js?ver=20120206'></script>
+    <script type='text/javascript' src='http://patricialhorvath.com/wp-content/themes/patriciahorvath/js/skip-link-focus-fix.js?ver=20130115'></script>
+    <script type='text/javascript' src='http://patricialhorvath.com/wp-includes/js/wp-embed.min.js?ver=4.6'></script>
+
+  </body>
+</html>

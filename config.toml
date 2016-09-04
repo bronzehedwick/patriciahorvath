@@ -2,3 +2,28 @@ baseurl = "http://patricialhorvath.com/"
 languageCode = "en-us"
 title = "Patricia Horvath"
 theme = "patti"
+[[ menu.main ]]
+  name = "About"
+  weight = 0
+  identifier = "about"
+  url = "/about/"
+[[ menu.main ]]
+  name = "Publications"
+  weight = 10
+  identifier = "publications"
+  url = "/publications/"
+[[ menu.main ]]
+  name = "Teaching"
+  weight = 20
+  identifier = "teaching"
+  url = "/teaching/"
+[[ menu.main ]]
+  name = "Grants and awards"
+  weight = 30
+  identifier = "grants-and-awards"
+  url = "/grants-and-awards/"
+[[ menu.main ]]
+  name = "Contact"
+  weight = 40
+  identifier = "contact"
+  url = "/contact/"
