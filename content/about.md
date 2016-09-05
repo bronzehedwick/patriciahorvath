@@ -1,7 +1,7 @@
 ---
 title: About
 author: admin
-layout: page
+type: page
 date: 2014-07-09T01:09:46+00:00
 
 ---

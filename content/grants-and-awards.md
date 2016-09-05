@@ -1,7 +1,7 @@
 ---
 title: Grants and Awards
 author: admin
-layout: page
+type: page
 date: 2016-07-21T22:41:39+00:00
 
 ---

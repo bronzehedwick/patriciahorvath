@@ -1,5 +1,29 @@
 {{ define "content" }}
 
-  <button>Hi there</button>
+<form method="post" id="cntctfrm_contact_form" class="cntctfrm_contact_form">
+  <div class="cntctfrm_column">
+    <div class="cntctfrm_field_wrap">
+      <label for="subject">Subject</label>
+      <input name="subject" id="subject" type="text">
+    </div>
 
+    <div class="cntctfrm_field_wrap">
+      <label id="message" for="message">Message</label>
+      <textarea rows="5" cols="30" name="message" required></textarea>
+    </div>
+
+    <div class="cntctfrm_field_wrap">
+      <button>Send</button>
+    </div>
+  </div>
+</form>
+
+{{ end }}
+
+{{ define "scripts" }}
+<script>
+  document.getElementById('cntctfrm_contact_form').addEventListener('submit', function(event) {
+    window.open('mailto:leftish115@gmail.com?subject=' + this[0].value + '&body=' + this[1].value);
+  }, false);
+</script>
 {{ end }}

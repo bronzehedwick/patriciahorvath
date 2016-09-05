@@ -1,7 +1,7 @@
 ---
 title: Publications
 author: admin
-layout: page
+type: page
 date: 2014-07-12T18:13:46+00:00
 
 ---

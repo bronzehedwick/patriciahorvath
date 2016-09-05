@@ -1,7 +1,7 @@
 ---
 title: Teaching
 author: admin
-layout: page
+type: page
 date: 2014-07-12T18:15:36+00:00
 
 ---

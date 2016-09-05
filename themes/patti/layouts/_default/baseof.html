@@ -61,13 +61,12 @@
 
             <article id="post-58" class="post-58 page type-page status-publish hentry">
               <header class="entry-header">
-                {{ block "contentheader" . }}
-                  <h1 class="entry-title">{{ .Title }}</h1>
-                {{ end }}
+                <h1 class="entry-title">{{ .Title }}</h1>
               </header><!-- .entry-header -->
 
               <div class="entry-content">
                 {{ block "content" . }}
+                  <!-- The site content. -->
                 {{ end }}
               </div><!-- .entry-content -->
             </article><!-- #post-## -->
@@ -84,6 +83,9 @@
     <script type='text/javascript' src='http://patricialhorvath.com/wp-content/themes/patriciahorvath/js/navigation.js?ver=20120206'></script>
     <script type='text/javascript' src='http://patricialhorvath.com/wp-content/themes/patriciahorvath/js/skip-link-focus-fix.js?ver=20130115'></script>
     <script type='text/javascript' src='http://patricialhorvath.com/wp-includes/js/wp-embed.min.js?ver=4.6'></script>
+    {{ block "scripts" . }}
+      <!-- Extra scripts. -->
+    {{ end }}
 
   </body>
 </html>
