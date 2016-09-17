@@ -6,7 +6,7 @@ date: 2016-07-21T22:41:39+00:00
 
 ---
 
-* Notable Essay of 2015, *Best American Essays*, 2016 for "Wrath" (The Los Angeles Review)
+* Notable Essay of 2015, *Best American Essays, 2016* for "Wrath" (The Los Angeles Review)
 * Literature Fellowship in Fiction, New York Foundation for the Arts, 2015
 * Special Mention, Pushcart Prize XXXVII, Best of the Small Presses, 2013
 * Goldenberg Prize in Fiction, Bellevue Literary Review, 2011
