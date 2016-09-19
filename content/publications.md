@@ -22,7 +22,7 @@ date: 2014-07-12T18:13:46+00:00
 
 ## Essays
 
-  * “Patience” The Massachusetts Review, Vol. LVI, No. 4, Winter 2015
+  * [“Patience” The Massachusetts Review, Vol. LVI, No. 4, Winter 2015](/files/Patience.pdf)
   * “Wrath” The Los Angeles Review, Volume 18, Fall 2015
   * “Gluttony” Harpur Palate, Vol. 14, No. 2, Winter/Spring, 2015
   * “Envy” New Ohio Review, Issue 16, Fall 2014
