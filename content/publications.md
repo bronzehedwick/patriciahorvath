@@ -24,7 +24,7 @@ date: 2014-07-12T18:13:46+00:00
 
   * [“Patience” The Massachusetts Review, Vol. LVI, No. 4, Winter 2015](/files/Patience.pdf)
   * “Wrath” The Los Angeles Review, Volume 18, Fall 2015
-  * “Gluttony” Harpur Palate, Vol. 14, No. 2, Winter/Spring, 2015
+  * [“Gluttony” Harpur Palate, Vol. 14, No. 2, Winter/Spring, 2015](/files/Gluttony.pdf)
   * “Envy” New Ohio Review, Issue 16, Fall 2014
   * [“The Frozen Sea” 2 Bridges Review, City University of New York, Volume 3, Fall 2013](http://issuu.com/2bridgesreview/docs/2bridgesreview2013/112?e=0/8209720)
   * [“By Circumstance & Design: Gender, Writing and Interiority” Essay posted on the website for VIDA: Women in Literary Arts, May 2011](http://www.vidaweb.org/by-circumstance-and-design-gender-writing-and-interiority/)
