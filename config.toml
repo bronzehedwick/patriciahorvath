@@ -3,27 +3,32 @@ languageCode = "en-us"
 title = "Patricia Horvath"
 theme = "patti"
 [[ menu.main ]]
+  name = "Book"
+  weight = -110
+  identifier = "book"
+  url = "https://www.goodreads.com/book/show/31945022-all-the-difference"
+[[ menu.main ]]
   name = "About"
-  weight = 0
+  weight = -100
   identifier = "about"
   url = "/about/"
 [[ menu.main ]]
   name = "Publications"
-  weight = 10
+  weight = -90
   identifier = "publications"
   url = "/publications/"
 [[ menu.main ]]
   name = "Teaching"
-  weight = 20
+  weight = -80
   identifier = "teaching"
   url = "/teaching/"
 [[ menu.main ]]
   name = "Grants and Awards"
-  weight = 30
+  weight = -70
   identifier = "grants-and-awards"
   url = "/grants-and-awards/"
 [[ menu.main ]]
   name = "Contact"
-  weight = 40
+  weight = -60
   identifier = "contact"
   url = "/contact/"
