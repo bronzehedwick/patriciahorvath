@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://patricialhorvath.com/</loc>
-    <lastmod>2016-07-21T22:41:39+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://patricialhorvath.com/grants-and-awards/</loc>
     <lastmod>2016-07-21T22:41:39+00:00</lastmod>
   </url>
@@ -29,6 +24,22 @@
   <url>
     <loc>http://patricialhorvath.com/about/</loc>
     <lastmod>2014-07-09T01:09:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://patricialhorvath.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://patricialhorvath.com/</loc>
+    <lastmod>2016-07-21T22:41:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://patricialhorvath.com/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
