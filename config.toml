@@ -4,14 +4,9 @@ title = "Patricia Horvath"
 theme = "patti"
 [[ menu.main ]]
   name = "All The Difference"
-  weight = -120
-  identifier = "book-pdf"
-  url = "/files/all-the-difference.pdf"
-[[ menu.main ]]
-  name = "Purchase All The Difference"
   weight = -110
-  identifier = "book"
-  url = "https://www.goodreads.com/book/show/31945022-all-the-difference"
+  identifier = "all-the-difference"
+  url = "/all-the-difference"
 [[ menu.main ]]
   name = "About"
   weight = -100
