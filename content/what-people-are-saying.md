@@ -4,4 +4,5 @@ title = "What People Are Saying - All The Difference"
 slug = "all-the-difference/what-people-are-saying"
 +++
 
-[Review](http://www.gazettenet.com/Book-Bag-9739302)
+* [Daily Hampshire Gazette](http://www.gazettenet.com/Book-Bag-9739302)
+* [New Pages](https://www.newpages.com/book-reviews/all-the-difference)
