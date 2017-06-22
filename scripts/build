@@ -1,0 +1,12 @@
+#!/bin/sh
+
+# Clean the local public directory, to make sure we have atomic builds.
+if [ -d public ]; then
+  rm -rf public
+fi
+
+# Generate the static site.
+hugo
+
+# Sync the built site to the web root.
+rsync -az --delete public/ "/usr/local/www/patriciahorvath"
