@@ -1,2 +1,8 @@
-# Patricia L. Horvath
-Patricia Horvath’s essays and stories have appeared in numerous literary journals, including The Massachusetts Review, The Los Angeles Review, New Ohio Review, Shenandoah, Confrontation, The Laurel Review, 2 Bridges Review, and Cream City Review. She is the recipient of the Bellevue Literary Review’s Goldenberg Prize in Fiction for a story that was accorded a Special Mention in the 2013 Pushcart Prize anthology. Her memoir All the Difference (Etruscan Press), for which she received fellowships from The New York Foundation for the Arts and the Barbara Deming Memorial Fund, explores the connection between disability and self-identity and what happens to one’s sense of self when a physical disability ceases to be visible.  She teaches at Framingham State University, Massachusetts and is an editor at The Massachusetts Review.
+# How to update this site
+
+1. [Click here](https://github.com/bronzehedwick/patriciahorvath/tree/master/content), or bookmark this URL: https://github.com/bronzehedwick/patriciahorvath/tree/master/content. This is where the site's pages live.
+2. Click the on the page you want to edit. The links will have names like the URLs of the pages themselves.
+3. Click the pencil icon in the upper right (see example image highlighting icon below)
+
+4. Edit the page by typing into the main field. You can see how you can do some more [advanced formatting here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+5. When you're done editing, click the green **Commit changes** at the bottom of the page.
