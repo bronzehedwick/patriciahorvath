@@ -1,5 +1,5 @@
 build:
-	@./scripts/build
+	@hugo
 
 serve:
 	@hugo serve --buildDrafts > hugo.log 2>&1 &
