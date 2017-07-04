@@ -17,39 +17,43 @@
         <div class="site-branding">
           <h1 class="site-title"><a href="{{ .Site.BaseURL }}" rel="home">{{ .Site.Title }}</a></h1>
         </div>
-
-        <nav id="site-navigation" class="main-navigation" role="navigation">
-          <div class="menu-menu-1-container">
-            <ul id="menu-menu-1" class="menu">
-              {{ range .Site.Menus.main }}
-                <li id="menu-item-{{ .Weight }}" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-{{ .Weight }}">
-                  <a href="{{ .URL }}">{{ .Name }}</a>
-                </li>
-              {{ end }}
-            </ul>
-          </div>
-        </nav><!-- #site-navigation -->
       </header><!-- #masthead -->
+
+      <nav id="site-navigation" class="main-navigation" role="navigation">
+        <div class="menu-menu-1-container">
+          <ul id="menu-menu-1" class="menu">
+            {{ range .Site.Menus.main }}
+            <li id="menu-item-{{ .Weight }}" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-{{ .Weight }}">
+              <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </nav><!-- #site-navigation -->
 
       <div id="content" class="site-content">
         <div id="primary" class="content-area">
-          <main id="main" class="site-main" role="main">
 
+          {{ if .IsHome }}
+            <a class="link-no-decoration" href="/all-the-difference"><img id="all-the-difference-cover" class="book-cover" src="/images/all-the-difference-cover.jpg" alt="All The Difference book front cover"></a>
+          {{ else }}
+            <main id="main" class="site-main" role="main">
 
-            <article id="post-58" class="post-58 page type-page status-publish hentry">
-              <header class="entry-header">
-                <h1 class="entry-title">{{ .Title }}</h1>
-              </header><!-- .entry-header -->
+              <article id="post-58" class="post-58 page type-page status-publish hentry">
+                <header class="entry-header">
+                  <h1 class="entry-title">{{ .Title }}</h1>
+                </header><!-- .entry-header -->
 
-              <div class="entry-content">
-                {{ block "content" . }}
-                  <!-- The site content. -->
-                {{ end }}
-              </div><!-- .entry-content -->
-            </article><!-- #post-## -->
+                <div class="entry-content">
+                  {{ block "content" . }}
+                    <!-- The site content. -->
+                  {{ end }}
+                </div><!-- .entry-content -->
+              </article><!-- #post-## -->
 
+            </main><!-- #main -->
+          {{ end }}
 
-          </main><!-- #main -->
         </div><!-- #primary -->
 
 
