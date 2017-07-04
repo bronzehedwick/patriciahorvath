@@ -1,7 +1,6 @@
 +++
 date = "2017-05-15T20:32:47-04:00"
 title = "All The Difference"
-slug = "Book"
 +++
 
 [All The Difference](/files/all-the-difference.pdf)

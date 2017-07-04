@@ -13,20 +13,20 @@ theme = "patti"
   identifier = "about"
   url = "/about/"
 [[ menu.main ]]
-  name = "Stories and Essays"
+  name = "Other Writing"
   weight = -90
   identifier = "publications"
   url = "/publications/"
 [[ menu.main ]]
-  name = "Teaching"
+  name = "Reviews & Interviews"
   weight = -80
-  identifier = "teaching"
-  url = "/teaching/"
+  identifier = "reviews-and-interviews"
+  url = "/reviews-and-interviews/"
 [[ menu.main ]]
-  name = "Grants and Awards"
+  name = "Events"
   weight = -70
-  identifier = "grants-and-awards"
-  url = "/grants-and-awards/"
+  identifier = "events"
+  url = "/events/"
 [[ menu.main ]]
   name = "Contact"
   weight = -60

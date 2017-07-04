@@ -29,9 +29,3 @@ date: 2014-07-12T18:13:46+00:00
   * [“The Frozen Sea” 2 Bridges Review, City University of New York, Volume 3, Fall 2013](http://issuu.com/2bridgesreview/docs/2bridgesreview2013/112?e=0/8209720)
   * [“By Circumstance & Design: Gender, Writing and Interiority” Essay posted on the website for VIDA: Women in Literary Arts, May 2011](http://www.vidaweb.org/by-circumstance-and-design-gender-writing-and-interiority/)
   * “Caged” Cream City Review, Vol. 32, No. 2, Fall 2008
-
-## Reviews/Interviews
-
-  * [Tethered by Letters, Author Interview Series, May 17, 2016](http://tetheredbyletters.com/author-qa-patricia-horvath/)
-  * [New Pages Book Review, June 2017](https://www.newpages.com/book-reviews/all-the-difference) 
-  * [Author interview, Bellevue Literary Review Online](http://blr.med.nyu.edu/content/interviews/2011-contest-winners/patti-horvath)
