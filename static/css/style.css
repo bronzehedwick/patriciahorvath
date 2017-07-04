@@ -139,6 +139,9 @@ a:active {
 a img {
   border: 0;
 }
+.link-no-decoration {
+  border-bottom: none;
+}
 
 /*--------------------------------------------------------------
 2.0 Typography
@@ -405,13 +408,6 @@ a:active {
 /*--------------------------------------------------------------
 5.2 Menus
 --------------------------------------------------------------*/
-.main-navigation {
-  clear: both;
-  display: block;
-  float: left;
-  width: 100%;
-  margin-top: 20px;
-}
 .main-navigation ul {
   list-style: none;
   margin: 0;
@@ -730,6 +726,10 @@ object {
   max-width: 100%;
 }
 
+.book-cover {
+  box-shadow: 5px 5px 5px #333;
+}
+
 /*--------------------------------------------------------------
 12.1 Captions
 --------------------------------------------------------------*/
@@ -793,14 +793,50 @@ object {
   width: 100%;
   padding: 10px;
 }
-@media screen and (min-width: 1040px) {
-  #page {
-    width: 53%;
+
+.home #page {
+  display: -ms-flex;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+}
+
+.home #masthead {
+  order: -2;
+}
+
+.home #content {
+  order: -1;
+}
+
+@media screen and (min-width: 601px) {
+  .home #page {
+    flex-flow: row wrap;
+  }
+
+  .home #masthead {
+    flex-basis: 100%;
+  }
+
+  .home #primary {
+    margin-top: 100px;
+  }
+
+  .home #content {
+    order: 2;
   }
 }
-@media screen and (max-width: 900px) {
+
+@media screen and (min-width: 800px) {
+  .home #page {
+    width: 73%;
+  }
+}
+
+@media screen and (min-width: 1040px) {
+  .home #page,
   #page {
-    width: 100%;
+    width: 53%;
   }
 }
 
@@ -810,8 +846,6 @@ object {
 .site-title {
   font-size: 36px;
   margin-bottom: 10px;
-  position: relative;
-  top: 25px;
 }
 .site-title a:link,
 .site-title a:visited {
