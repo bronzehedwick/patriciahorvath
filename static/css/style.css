@@ -893,9 +893,14 @@ object {
 }
 
 @media screen and (min-width: 1040px) {
-  .home #page,
   #page {
     width: 53%;
+  }
+}
+
+@media screen and (min-width: 1244px) {
+  .home #page {
+    width: 43%;
   }
 }
 
