@@ -13,15 +13,15 @@ theme = "patti"
   identifier = "about"
   url = "/about/"
 [[ menu.main ]]
-  name = "Other Writing"
-  weight = -90
-  identifier = "publications"
-  url = "/publications/"
-[[ menu.main ]]
   name = "Reviews & Interviews"
-  weight = -80
+  weight = -90
   identifier = "reviews-and-interviews"
   url = "/reviews-and-interviews/"
+[[ menu.main ]]
+  name = "Other Writing"
+  weight = -80
+  identifier = "publications"
+  url = "/publications/"
 [[ menu.main ]]
   name = "Events"
   weight = -70
