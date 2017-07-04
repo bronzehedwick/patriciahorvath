@@ -849,7 +849,7 @@ object {
 }
 
 #all-the-difference p {
-  max-width: 600px;
+  max-width: 800px;
 }
 
 @media screen and (min-width: 601px) {
@@ -867,6 +867,11 @@ object {
 
   .home #content {
     order: 2;
+  }
+
+  #all-the-difference img {
+    float: right;
+    margin-left: 6em;
   }
 }
 
@@ -955,6 +960,7 @@ object {
   max-width: 500px;
   width: -moz-fit-content;
   width: fit-content;
+  /* max-width: 800px; */
   border-radius: 5px;
   font-family: Georgia, serif;
 }
@@ -962,6 +968,7 @@ object {
 .excerpt p {
   margin: 0 0 1em 0;
   line-height: 1.6;
+  /* column-count: 2; */
 }
 
 .excerpt p:first-of-type::first-letter {
