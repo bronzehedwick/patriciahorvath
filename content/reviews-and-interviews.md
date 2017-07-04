@@ -53,8 +53,8 @@ date = 2017-07-03T23:34:25-04:00
 >
 > [Read the full review](http://www.gazettenet.com/Book-Bag-9739302)
 
-<!--
+## Read Author interviews about *All the Difference*
+
 * [Tethered by Letters, Author Interview Series, May 17, 2016](http://tetheredbyletters.com/author-qa-patricia-horvath/)
-* [New Pages, Review, “The Frozen Sea” June 16, 2014](http://www.newpages.com/literary-magazine-reviews/2014-06-16/#2-Bridges-Review-V3-201)
-* [Author interview, Bellevue Literary Review Online](http://blr.med.nyu.edu/content/interviews/2011-contest-winners/patti-horvath)
--->
+* Etruscan Press
+* [Advice to Writers in Bellevue Literary Review](http://blr.med.nyu.edu/content/interviews/2011-contest-winners/patti-horvath)
