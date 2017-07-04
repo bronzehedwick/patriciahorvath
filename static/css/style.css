@@ -833,25 +833,13 @@ object {
   width: 100%;
 }
 
-#reviews-and-interviews .entry-content {
-  display: -ms-flex;
-  display: flex;
-  flex-flow: row wrap;
-}
-
-#reviews-and-interviews blockquote:first-of-type {
-  flex: 1 100%;
-  text-align: center;
-}
-
-#reviews-and-interviews blockquote p {
+#reviews-and-interviews blockquote {
   max-width: 500px;
   margin-left: auto;
   margin-right: auto;
 }
 
-#reviews-and-interviews blockquote + h2 {
-  flex: 0 100%;
+#read-author-interviews-about-all-the-difference {
   padding-top: 1em;
   border-top: 1px solid #fff;
 }
@@ -984,6 +972,11 @@ object {
 
 .excerpt p + p {
   text-indent: 5ch;
+}
+
+.column {
+  float: left;
+  width: 45%;
 }
 
 .clearfix:after {
