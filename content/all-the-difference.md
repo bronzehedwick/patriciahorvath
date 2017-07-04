@@ -7,8 +7,7 @@ title = "All The Difference"
 
 ## Synopsis
 
-<img class="alignright book-cover" src="/images/all-the-difference-cover.jpg" alt="All The Difference front cover">
-
+![All The Difference front cover](/images/all-the-difference-cover.jpg)
 *All the Difference* is a captivating account of the author’s transformation from a visibly disabled young woman to someone who could, abruptly, “pass” for able-bodied. In prose that is searing and humorous Patricia Horvath details her experiences with bracing and spinal fusion, as she considers family dynamics, the literature of physical transformation, and how folk and fairy tales shape our attitudes towards the disabled.
 
 <div class="clearfix"></div>
