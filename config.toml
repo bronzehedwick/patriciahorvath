@@ -3,10 +3,10 @@ languageCode = "en-us"
 title = "Patricia Horvath"
 theme = "patti"
 [[ menu.main ]]
-  name = "All The Difference"
+  name = "Book"
   weight = -110
   identifier = "all-the-difference"
-  url = "/all-the-difference"
+  url = "/all-the-difference/"
 [[ menu.main ]]
   name = "About"
   weight = -100
