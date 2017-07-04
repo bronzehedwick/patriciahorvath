@@ -193,8 +193,14 @@ textarea {
 h1, h2, h3, h4, h5, h6 {
   clear: both;
 }
+h2, h3, h4, h5, h6 {
+  margin-bottom: 1em;
+}
 h2 {
   font-size: 20px;
+}
+h3 {
+  font-size: 18px;
 }
 p {
   margin-bottom: 1.5em;
@@ -606,11 +612,12 @@ a:active {
   margin: 0 auto;
 }
 
-@media screen and (max-width: 451px) {
+@media screen and (max-width: 601px) {
   .alignright,
   .alignleft {
     float: none;
     display: block;
+    margin-left: 0;
   }
 }
 
@@ -845,9 +852,16 @@ object {
 
 #reviews-and-interviews blockquote + h2 {
   flex: 0 100%;
-  margin-bottom: 1em;
   padding-top: 1em;
   border-top: 1px solid #fff;
+}
+
+#all-the-difference #page {
+  width: auto;
+}
+
+#all-the-difference p {
+  max-width: 600px;
 }
 
 @media screen and (min-width: 601px) {
@@ -911,3 +925,64 @@ object {
 /*--------------------------------------------------------------
 16.0 Misc
 --------------------------------------------------------------*/
+.buy-links {
+  list-style-type: none;
+}
+
+.buy-link {
+  display: inline-block;
+}
+
+@media screen and (min-width: 601px) {
+  .buy-links:after,
+  .buy-links:before {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    width: 3em;
+    height: 1px;
+    background-color: #fff;
+  }
+}
+
+#read-an-excerpt {
+  text-align: center;
+  margin-top: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  border-top: 2px dotted;
+  border-bottom: 2px dotted;
+}
+
+.excerpt {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2ch;
+  max-width: 500px;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-radius: 5px;
+  font-family: Georgia, serif;
+}
+
+.excerpt p {
+  margin: 0 0 1em 0;
+  line-height: 1.6;
+}
+
+.excerpt p:first-of-type::first-letter {
+  font-size: 30px;
+  padding: 0.25em 1ch;
+  background-color: rgb(129, 68, 66);
+}
+
+.excerpt p + p {
+  text-indent: 5ch;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
