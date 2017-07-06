@@ -948,21 +948,14 @@ object {
 #read-an-excerpt {
   text-align: center;
   margin-top: 2em;
-  margin-left: auto;
-  margin-right: auto;
   width: 200px;
   border-top: 2px dotted;
   border-bottom: 2px dotted;
 }
 
 .excerpt {
-  margin-left: auto;
-  margin-right: auto;
   padding: 2ch;
-  max-width: 500px;
-  width: -moz-fit-content;
-  width: fit-content;
-  /* max-width: 800px; */
+  max-width: 800px;
   border-radius: 5px;
   font-family: Georgia, serif;
 }
@@ -970,7 +963,20 @@ object {
 .excerpt p {
   margin: 0 0 1em 0;
   line-height: 1.6;
-  /* column-count: 2; */
+}
+
+@media screen and (min-width: 601px) {
+  #read-an-excerpt {
+    margin-left: 30vw;
+  }
+
+  .excerpt {
+    margin-left: 10vw;
+  }
+
+  .excerpt p {
+    column-count: 2;
+  }
 }
 
 .excerpt p:first-of-type::first-letter {
