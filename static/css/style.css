@@ -48,6 +48,7 @@ and Blueprint http://www.blueprintcss.org/
 14.0 - Headings
 15.0 - Homepage
 16.0 - Misc
+17.0 - Forms
 --------------------------------------------------------------*/
 
 /*--------------------------------------------------------------
@@ -1032,4 +1033,22 @@ object {
   content: "";
   display: table;
   clear: both;
+}
+
+/*--------------------------------------------------------------
+17.0 - Forms
+--------------------------------------------------------------*/
+
+label, input, button {
+  display: block;
+}
+
+input, textarea {
+  margin-bottom: 1em;
+  width: 500px;
+  max-width: 100%;
+}
+
+textarea {
+  height: 10em;
 }
