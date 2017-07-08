@@ -1008,6 +1008,7 @@ object {
   }
 
   .excerpt p {
+    -webkit-column-count: 2;
     column-count: 2;
     margin-left: 0 !important;
     position: static !important;
