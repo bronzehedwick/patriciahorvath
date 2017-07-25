@@ -100,6 +100,12 @@ body {
     background-image: none;
   }
 }
+/* Disable the background image for certain pages, for legibility */
+#publications,
+#reviews-and-interviews,
+#all-the-difference {
+  background-image: none;
+}
 article,
 aside,
 details,
