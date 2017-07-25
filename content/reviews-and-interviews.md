@@ -35,6 +35,14 @@ date = 2017-07-03T23:34:25-04:00
 <div class="column column--second">
 
 <blockquote>
+  <p>A beautifully written, thoughtful memoir…Remarkably, there is not a
+sentence that hints of self-pity or lashes out at fate for the injustice
+or pain of her circumstances. Horvath's short memoir is full of
+pleasures.</p>
+  <strong>&#8212; Jonna Semeiks, <em>Confrontation</em></strong>
+</blockquote>
+
+<blockquote>
   <p>A powerful story of survival, crackling with honesty, vulnerability, and wit, Horvath’s memoir <em>All The Difference</em> lays bare the myths of disability and the ways we are bound by our body’s betrayals—whether they be overt or invisible—and how our hearts and minds might surpass the most difficult of limits.</p>
   <strong>&#8212; Michelle Hoover, Author of <em>The Quickening & Bottomland</em></strong>
 </blockquote>
