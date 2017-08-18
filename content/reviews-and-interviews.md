@@ -3,11 +3,16 @@ title = "Reviews & Interviews"
 date = 2017-07-03T23:34:25-04:00
 +++
 
-> <em>All The Difference</em> is the poignant story of a woman’s struggle with scoliosis and early onset osteoporosis, but it is also the story of navigating the fractures of family and growing up.  Horvath carefully excavates the fault lines and intersections of these powerful strands in her narrative, writing a heartbreaking and ultimately hopeful story about acceptance.
+> In her elegant book *All the Difference*, Patricia Horvath recounts the difficult time of wrestling both with medical challenges and adolescence. It is a graceful story not of overcoming challenge, but of accepting it.
 >
-> **--- Martha McPhee Author of _Bright Angel Time & Dear Money_**
+> **--- Nina MacLaughin, _The Boston Globe_**
 
 <div class="column column--first">
+
+<blockquote>
+  <p><em>All The Difference</em> is the poignant story of a woman’s struggle with scoliosis and early onset osteoporosis, but it is also the story of navigating the fractures of family and growing up.  Horvath carefully excavates the fault lines and intersections of these powerful strands in her narrative, writing a heartbreaking and ultimately hopeful story about acceptance.</p>
+  <strong>&#8212; Martha McPhee Author of <em>Bright Angel Time & Dear Money</em></strong>
+</blockquote>
 
 <blockquote>
   <p><em>All the Difference</em> is as brave, honest, and beautiful a book as I have read in years. The book abounds in wonderfully vivid scenes and great humor even as it makes us understand the cruel and curious ways the bodies we live with create—both physically and emotionally—who we are. A stunning, memorable achievement.</p>
