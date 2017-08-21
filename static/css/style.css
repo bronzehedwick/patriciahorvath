@@ -940,14 +940,16 @@ object {
   position: absolute;
   top: 600px;
 }
-.home .buy-links {
-  margin-top: 2em;
+.buy-links--headline {
+  margin-top: 1em;
+  margin-left: 29vw;
 }
 /*--------------------------------------------------------------
 16.0 Misc
 --------------------------------------------------------------*/
 .buy-links {
   list-style-type: none;
+  font-size: 1.1em;
 }
 
 .buy-link {
@@ -956,7 +958,7 @@ object {
 
 @media screen and (min-width: 601px) {
   .buy-links {
-    margin-left: 20vw;
+    margin-left: 19vw;
   }
 
   .buy-links:after,
