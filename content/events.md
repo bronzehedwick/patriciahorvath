@@ -12,7 +12,7 @@ KGB Bar<br>
 </a>
 
 
-<a href="/files/howland-library-reading-10-2017.pdf">
+<a href="/files/Howland\ Library\ Reading.pdf">
 BEACON, NY<br>
 Thursday, September 14, 2017, 6:30 pm<br>
 Reading and Book Signing<br>
