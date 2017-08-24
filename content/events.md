@@ -3,7 +3,7 @@ title = "Upcoming Events"
 date = 2017-07-03T23:38:45-04:00
 +++
 
-<a href="/files/At\ the\ Inkwell.pdf">
+<a href="/files/At%20the%20Inkwell.pdf">
 NEW YORK, NY<br>
 Wednesday, September 13, 2017, 7:00 pm<br>
 At the Inkwell (reading series)<br>
@@ -12,7 +12,7 @@ KGB Bar<br>
 </a>
 
 
-<a href="/files/Howland\ Library\ Reading.pdf">
+<a href="/files/Howland%20Library%20Reading.pdf">
 BEACON, NY<br>
 Thursday, September 14, 2017, 6:30 pm<br>
 Reading and Book Signing<br>
