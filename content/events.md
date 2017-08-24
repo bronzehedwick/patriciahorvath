@@ -3,7 +3,7 @@ title = "Upcoming Events"
 date = 2017-07-03T23:38:45-04:00
 +++
 
-<a href="http://attheinkwell.com/readings/poetry-prose-nyc/">
+<a href="/files/At/ The\ Inkwell.pdf">
 NEW YORK, NY<br>
 Wednesday, September 13, 2017, 7:00 pm<br>
 At the Inkwell (reading series)<br>
