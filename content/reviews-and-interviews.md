@@ -44,7 +44,8 @@ date = 2017-07-03T23:34:25-04:00
 sentence that hints of self-pity or lashes out at fate for the injustice
 or pain of her circumstances. Horvath's short memoir is full of
 pleasures.</p>
-  <strong>&#8212; Jonna Semeiks, <em>Confrontation</em></strong>
+  <p><strong>&#8212; Jonna Semeiks, <em>Confrontation</em></strong></p>
+  <p><a href="http://confrontationmagazine.org/received-and-recommended-patricia-horvaths-all-the-difference/">Read the full review</a></p>
 </blockquote>
 
 <blockquote>
