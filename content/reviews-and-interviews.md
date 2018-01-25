@@ -3,11 +3,19 @@ title = "Reviews & Interviews"
 date = 2017-07-03T23:34:25-04:00
 +++
 
-> In her elegant book *All the Difference*, Patricia Horvath recounts the difficult time of wrestling both with medical challenges and adolescence. It is a graceful story not of overcoming challenge, but of accepting it.
->
-> **--- Nina MacLaughin, _The Boston Globe_**
+> All the Difference is on [Books on the Subway](https://twitter.com/BooksSubway/status/955869609487298560/photo/1)
+
+<blockquote>
+  <p>In her elegant book <em>All the Difference</em>, Patricia Horvath recounts the difficult time of wrestling both with medical challenges and adolescence. It is a graceful story not of overcoming challenge, but of accepting it.</p>
+  <strong>&#8212; Nina MacLaughin, <em>The Boston Globe</em></strong>
+</blockquote>
 
 <div class="column column--first">
+
+<blockquote>
+  <p>Throughout her book, Horvath waxes beautifully on her inner thoughts and memories, and how her disability changed both her physical body and her identity.</p>
+  <strong>&#8212; Sarah Evans, <em>Hippocampus Magazine</em></strong>
+</blockquote>
 
 <blockquote>
   <p><em>All The Difference</em> is the poignant story of a woman’s struggle with scoliosis and early onset osteoporosis, but it is also the story of navigating the fractures of family and growing up.  Horvath carefully excavates the fault lines and intersections of these powerful strands in her narrative, writing a heartbreaking and ultimately hopeful story about acceptance.</p>
