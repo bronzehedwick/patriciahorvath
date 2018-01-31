@@ -14,7 +14,8 @@ date = 2017-07-03T23:34:25-04:00
 
 <blockquote>
   <p>Throughout her book, Horvath waxes beautifully on her inner thoughts and memories, and how her disability changed both her physical body and her identity.</p>
-  <strong>&#8212; Sarah Evans, <em>Hippocampus Magazine</em></strong>
+  <p><strong>&#8212; Sarah Evans, <em>Hippocampus Magazine</em></strong></p>
+  <p><a href="http://www.hippocampusmagazine.com/2017/12/review-all-the-difference-by-patricia-horvath/">Read the full review</a></p>
 </blockquote>
 
 <blockquote>
