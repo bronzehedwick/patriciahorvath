@@ -77,7 +77,7 @@ pleasures.</p>
 
 ## Read Author interviews about *All the Difference*
 
-* [Snowflakes in a Blizzard](https://snowflakesarise.wordpress.com/)
+* [Snowflakes in a Blizzard](https://snowflakesarise.wordpress.com/2017/11/07/all-the-difference/)
 * [Tethered by Letters, Author Interview Series, May 17, 2016](http://tetheredbyletters.com/author-qa-patricia-horvath/)
 * [Etruscan Press](http://etruscanpress.org/interview-with-patricia-horvath-by-pamela-turchin/)
 * [Advice to Writers in Bellevue Literary Review](http://blr.med.nyu.edu/content/interviews/2011-contest-winners/patti-horvath)
