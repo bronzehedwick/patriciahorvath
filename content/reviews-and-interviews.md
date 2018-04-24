@@ -77,6 +77,7 @@ pleasures.</p>
 
 ## Read Author interviews about *All the Difference*
 
+* [Podcast with Julie Wilkins, Founder, Forever Fused](http://www.foreverfused.com/podcast)
 * [Snowflakes in a Blizzard](https://snowflakesarise.wordpress.com/2017/11/07/all-the-difference/)
 * [Tethered by Letters, Author Interview Series, May 17, 2016](http://tetheredbyletters.com/author-qa-patricia-horvath/)
 * [Etruscan Press](http://etruscanpress.org/interview-with-patricia-horvath-by-pamela-turchin/)
