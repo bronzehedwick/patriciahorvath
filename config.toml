@@ -18,7 +18,7 @@ theme = "patti"
   identifier = "reviews-and-interviews"
   url = "/reviews-and-interviews/"
 [[ menu.main ]]
-  name = "Other Writing"
+  name = "Stories and Essays"
   weight = -80
   identifier = "publications"
   url = "/publications/"
