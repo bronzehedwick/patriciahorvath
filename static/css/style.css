@@ -854,6 +854,12 @@ object {
   width: 100%;
 }
 
+#reviews-and-interviews .entry-content {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
 #reviews-and-interviews blockquote {
   max-width: 500px;
   margin-left: auto;
@@ -1036,8 +1042,15 @@ object {
 }
 
 .column {
-  float: left;
-  width: 45%;
+  flex: 1 1 45%;
+}
+
+.column--first {
+  margin-right: 20px;
+}
+
+.column--callout {
+  flex: 1 1 100%;
 }
 
 .clearfix:after {

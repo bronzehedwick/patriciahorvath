@@ -3,12 +3,18 @@ title = "Reviews & Interviews"
 date = 2017-07-03T23:34:25-04:00
 +++
 
-> All the Difference is on [Books on the Subway](https://twitter.com/BooksSubway/status/955869609487298560/photo/1)
+<div class="column--callout">
+
+<blockquote>
+  <p>All the Difference is on <a href="https://twitter.com/BooksSubway/status/955869609487298560/photo/1">Books on the Subway</a></p>
+</blockquote>
 
 <blockquote>
   <p>In her elegant book <em>All the Difference</em>, Patricia Horvath recounts the difficult time of wrestling both with medical challenges and adolescence. It is a graceful story not of overcoming challenge, but of accepting it.</p>
   <strong>&#8212; Nina MacLaughin, <em>The Boston Globe</em></strong>
 </blockquote>
+
+</div>
 
 <div class="column column--first">
 
@@ -75,11 +81,16 @@ pleasures.</p>
 
 </div>
 
-## Read Author interviews about *All the Difference*
+<div>
+<hr>
+<h2>Read Author interviews about <em>All the Difference</em></h2>
 
-* [Podcast with Brooklyn Writers Project](https://www.marinaaris.com/blog/everyone-s-got-a-story-patricia-horvath)
-* [Podcast with Julie Wilkins, Founder, Forever Fused](http://www.foreverfused.com/podcast)
-* [Snowflakes in a Blizzard](https://snowflakesarise.wordpress.com/2017/11/07/all-the-difference/)
-* [Tethered by Letters, Author Interview Series, May 17, 2016](http://tetheredbyletters.com/author-qa-patricia-horvath/)
-* [Etruscan Press](http://etruscanpress.org/interview-with-patricia-horvath-by-pamela-turchin/)
-* [Advice to Writers in Bellevue Literary Review](http://blr.med.nyu.edu/content/interviews/2011-contest-winners/patti-horvath)
+<ul>
+<li><a href="https://www.marinaaris.com/blog/everyone-s-got-a-story-patricia-horvath">Podcast with Brooklyn Writers Project</a></li>
+<li><a href="http://www.foreverfused.com/podcast">Podcast with Julie Wilkins, Founder, Forever Fused</a></li>
+<li><a href="https://snowflakesarise.wordpress.com/2017/11/07/all-the-difference/">Snowflakes in a Blizzard</a></li>
+<li><a href="http://tetheredbyletters.com/author-qa-patricia-horvath/">Tethered by Letters, Author Interview Series, May 17, 2016</a></li>
+<li><a href="http://etruscanpress.org/interview-with-patricia-horvath-by-pamela-turchin/">Etruscan Press</a></li>
+<li><a href="http://blr.med.nyu.edu/content/interviews/2011-contest-winners/patti-horvath">Advice to Writers in Bellevue Literary Review</a></li>
+</ul>
+</div>
