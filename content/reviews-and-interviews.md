@@ -86,7 +86,7 @@ pleasures.</p>
 <h2>Read Author interviews about <em>All the Difference</em></h2>
 
 <ul>
-<li><a href="https://www.marinaaris.com/blog/everyone-s-got-a-story-patricia-horvath">Podcast with Brooklyn Writers Project</a></li>
+<li><a href="https://www.stitcher.com/podcast/life-lines-the-books-podcast/e/55249671?autoplay=true">Podcast with Brooklyn Writers Project</a></li>
 <li><a href="http://www.foreverfused.com/podcast">Podcast with Julie Wilkins, Founder, Forever Fused</a></li>
 <li><a href="https://snowflakesarise.wordpress.com/2017/11/07/all-the-difference/">Snowflakes in a Blizzard</a></li>
 <li><a href="http://tetheredbyletters.com/author-qa-patricia-horvath/">Tethered by Letters, Author Interview Series, May 17, 2016</a></li>
