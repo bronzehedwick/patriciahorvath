@@ -3,7 +3,11 @@ title = "Upcoming Events"
 date = 2017-07-03T23:38:45-04:00
 +++
 
-[SAN FRANCISCO, CO  
+[HEMPSTEAD, NY  
+Hofstra University  
+November 1, 2018, 4:30 pm](/files/Hofstra-Reading-11-1-2018.pdf)
+
+[SAN FRANCISCO, CA  
 University of San Francisco  
 April 11, 2018, 7:30 PM
 ](/files/emerging-writers-festival.pdf)
