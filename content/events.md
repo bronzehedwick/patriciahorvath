@@ -3,6 +3,9 @@ title = "Upcoming Events"
 date = 2017-07-03T23:38:45-04:00
 +++
 
+![Modern fairy tales and mythic transformations. An evening of live poetry and prose. Kristen Bock, Patricia Horvath, Jane Rosenberg LaForge, Michelle Valois. Thursday February 21st at 7pm. Iconica Social Club. 1 Amber Lane, Northampton.](/images/modern-fairy-tales.jpg)
+
+
 [HEMPSTEAD, NY  
 Hofstra University  
 November 1, 2018, 4:30 pm](/files/Hofstra-Reading-11-1-2018.pdf)
