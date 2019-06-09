@@ -11,7 +11,8 @@ date = 2017-07-03T23:34:25-04:00
 
 <blockquote>
   <p>In her elegant book <em>All the Difference</em>, Patricia Horvath recounts the difficult time of wrestling both with medical challenges and adolescence. It is a graceful story not of overcoming challenge, but of accepting it.</p>
-  <strong>&#8212; Nina MacLaughin, <em>The Boston Globe</em></strong>
+  <p><strong>&#8212; Nina MacLaughin, <em>The Boston Globe</em></strong></p>
+  <p><a href="https://www3.bostonglobe.com/arts/books/2017/07/27/touring-new-new-england-mobile-book-fair/3bA5ZGnlQWJm3yAp0EHivI/story.html?arc404=true">Read the full review</a></p>
 </blockquote>
 
 </div>
@@ -47,7 +48,7 @@ date = 2017-07-03T23:34:25-04:00
 <blockquote>
   <p><em>All the Difference</em>, despite the pain it recounts, is never self-pitying, and it’s much more than a litany of medical problems. Horvath looks back at other landmarks from her youth — a mean-spirited elementary school teacher, an icy relationship with her stepfather, listening to rock and roll, her first tentative relationships with boys — with a sharp eye and often a dry sense of humor.</p>
   <p><strong>&#8212; Steve Pfarrer, <em>Daily Hampshire Gazette</em></strong></p>
-  <p><a href="http://www.gazettenet.com/Book-Bag-9739302">Read the full review</a></p>
+  <p><a href="https://www.gazettenet.com/Book-Bag-9739302">Read the full review</a></p>
 </blockquote>
 
 </div>
@@ -87,7 +88,7 @@ pleasures.</p>
 
 <ul>
 <li><a href="https://www.stitcher.com/podcast/life-lines-the-books-podcast/e/55249671?autoplay=true">Podcast with Brooklyn Writers Project</a></li>
-<li><a href="http://www.foreverfused.com/podcast">Podcast with Julie Wilkins, Founder, Forever Fused</a></li>
+<li><a href="https://foreverfused.podbean.com/e/episode-18-patricia-horvath-all-the-difference/">Podcast with Julie Wilkins, Founder, Forever Fused</a></li>
 <li><a href="https://snowflakesarise.wordpress.com/2017/11/07/all-the-difference/">Snowflakes in a Blizzard</a></li>
 <li><a href="http://tetheredbyletters.com/author-qa-patricia-horvath/">Tethered by Letters, Author Interview Series, May 17, 2016</a></li>
 <li><a href="http://etruscanpress.org/interview-with-patricia-horvath-by-pamela-turchin/">Etruscan Press</a></li>
