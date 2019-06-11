@@ -12,7 +12,7 @@ date = 2017-07-03T23:34:25-04:00
 <blockquote>
   <p>In her elegant book <em>All the Difference</em>, Patricia Horvath recounts the difficult time of wrestling both with medical challenges and adolescence. It is a graceful story not of overcoming challenge, but of accepting it.</p>
   <p><strong>&#8212; Nina MacLaughin, <em>The Boston Globe</em></strong></p>
-  <p><a href="https://www3.bostonglobe.com/arts/books/2017/07/27/touring-new-new-england-mobile-book-fair/3bA5ZGnlQWJm3yAp0EHivI/story.html?arc404=true">Read the full review</a></p>
+  <p><a href="https://www3.bostonglobe.com/arts/books/2017/07/27/touring-new-new-england-mobile-book-fair/3bA5ZGnlQWJm3yAp0EHivI/story.html?arc404=true">See "Overcoming Challenges"</a></p>
 </blockquote>
 
 </div>
