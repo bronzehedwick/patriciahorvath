@@ -6,8 +6,13 @@ help: ## Prints help for targets with comments.
 build: ## Runs `hugo`.
 	@hugo
 
-web: ## Pushes both to Github and to deploy, which build the site.
-	@git push origin master && git push deploy master
+clean: ## Remove build directory.
+	@if [ -d public ]; then rm -rf public; fi && mkdir public
+
+sync: ## Push built site to the server.
+	@rsync -a -e ssh --delete --omit-dir-times --no-perms --progress public/ waitstaff_deploy:/usr/local/www/patricialhorvath.com
+
+web: clean build sync ## Build and sync to the server.
 
 serve: ## Start development server in the background.
 	@hugo serve --buildDrafts > hugo.log 2>&1 &
