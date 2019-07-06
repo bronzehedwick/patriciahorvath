@@ -80,6 +80,12 @@ pleasures.</p>
   <p><a href="https://www.newpages.com/book-reviews/all-the-difference">Read the full review</a></p>
 </blockquote>
 
+<blockquote>
+  <p>A talented storyteller, Patricia has a gifted way of reflecting on her difficult past with equal parts serious and sassy. There is always a touch of humour, even when she describes the most horrible experiences.</p>
+  <p><strong>&#8212; Martha Carter, <em>Twisted Outreach Project</em></strong></p>
+  <p><a href="https://www.twistedoutreachproject.com/resources/2019/7/2/books-martha-carter-reviews-all-the-difference-by-patricia-horvath">Read the full review</a></p>
+</blockquote>
+
 </div>
 
 <div>
