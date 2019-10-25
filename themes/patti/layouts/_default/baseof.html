@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ .Site.Title }}</title>
     <link rel="stylesheet" href="/css/style.css"/>
-    {{ .Hugo.Generator }}
+    {{ hugo.Generator }}
   </head>
 
-  <body id="{{ replace .URL "/" "" }}" class="{{ if .IsHome }}home{{ end }} page page-id-23 page-template-default custom-background">
+  <body class="{{ if .IsHome }}home{{ end }} page page-id-23 page-template-default custom-background">
     <div id="page" class="hfeed site">
       <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
