@@ -3,8 +3,15 @@ title = "Upcoming Events"
 date = 2017-07-03T23:38:45-04:00
 +++
 
-![Modern fairy tales and mythic transformations. An evening of live poetry and prose. Kristen Bock, Patricia Horvath, Jane Rosenberg LaForge, Michelle Valois. Thursday February 21st at 7pm. Iconica Social Club. 1 Amber Lane, Northampton.](/images/modern-fairy-tales.jpg)
+[New York, NY  
+Samakaya Yoga and Back Care  
+Two day writing workshop with Martha Carter, Director, Twisted Outreach Project  
+March 28 & 20, 2020](https://www.twistedoutreachproject.com/fusion-wellness-weekend-march-2020)
 
+[NORTHAMPTON, MA  
+Iconica Social Club  
+1 Amber Lane, Northampton  
+February 21, 7:00 pm](/images/modern-fairy-tales.jpg)
 
 [HEMPSTEAD, NY  
 Hofstra University  
