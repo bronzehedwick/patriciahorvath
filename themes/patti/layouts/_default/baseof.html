@@ -8,7 +8,7 @@
     {{ hugo.Generator }}
   </head>
 
-  <body class="{{ if .IsHome }}home{{ end }} page page-id-23 page-template-default custom-background">
+  <body id="{{ replace .RelPermalink "/" "" }}" class="{{ if .IsHome }}home{{ end }} page page-id-23 page-template-default custom-background">
     <div id="page" class="hfeed site">
       <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 

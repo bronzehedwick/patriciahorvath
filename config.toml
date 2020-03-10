@@ -2,6 +2,8 @@ baseurl = "http://patricialhorvath.com/"
 languageCode = "en-us"
 title = "Patricia Horvath"
 theme = "patti"
+[markup.goldmark.renderer]
+unsafe = true
 [[ menu.main ]]
   name = "Book"
   weight = -110
