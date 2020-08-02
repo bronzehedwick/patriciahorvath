@@ -101,9 +101,9 @@ body {
   }
 }
 /* Disable the background image for certain pages, for legibility */
-#publications,
+#stories-and-essays,
 #reviews-and-interviews,
-#all-the-difference {
+#book {
   background-image: none;
 }
 article,
@@ -866,16 +866,16 @@ object {
   margin-right: auto;
 }
 
-#read-author-interviews-about-all-the-difference {
+#read-author-interviews-about-book {
   padding-top: 1em;
   border-top: 1px solid #fff;
 }
 
-#all-the-difference #page {
+#book #page {
   width: auto;
 }
 
-#all-the-difference p {
+#book p {
   max-width: 800px;
 }
 
@@ -896,7 +896,7 @@ object {
     order: 2;
   }
 
-  #all-the-difference img {
+  #book img {
     float: right;
     margin-left: 6em;
   }
@@ -997,18 +997,18 @@ object {
 }
 
 @media screen and (min-width: 601px) {
-  #all-the-difference p,
+  #book p,
   #synopsis {
     margin-left: 10vw;
     position: relative;
     top: 100px;
   }
 
-  #all-the-difference .entry-title {
+  #book .entry-title {
     margin-left: 30vw;
   }
 
-  #all-the-difference p img {
+  #book p img {
     box-shadow: 5px 5px 5px #333;
     position: relative;
     top: -140px;

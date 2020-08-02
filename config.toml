@@ -1,36 +1,46 @@
-baseurl = "http://patricialhorvath.com/"
-languageCode = "en-us"
+# The URL the site will be built for
+base_url = "https://patricialhorvath.com/"
+
+# The site title and description; used in feeds by default.
 title = "Patricia Horvath"
-theme = "patti"
-[markup.goldmark.renderer]
-unsafe = true
-[[ menu.main ]]
-  name = "Book"
-  weight = -110
-  identifier = "all-the-difference"
-  url = "/all-the-difference/"
-[[ menu.main ]]
-  name = "About"
-  weight = -100
-  identifier = "about"
-  url = "/about/"
-[[ menu.main ]]
-  name = "Reviews & Interviews"
-  weight = -90
-  identifier = "reviews-and-interviews"
-  url = "/reviews-and-interviews/"
-[[ menu.main ]]
-  name = "Stories and Essays"
-  weight = -80
-  identifier = "publications"
-  url = "/publications/"
-[[ menu.main ]]
-  name = "Events"
-  weight = -70
-  identifier = "events"
-  url = "/events/"
-[[ menu.main ]]
-  name = "Contact"
-  weight = -60
-  identifier = "contact"
-  url = "/contact/"
+description = ""
+
+# The default language; used in feeds.
+default_language = "en"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+# Put all your custom variables here
+[extra]
+  [[extra.menu]]
+    name = "Book"
+    weight = -110
+    url = "/all-the-difference/"
+  [[extra.menu]]
+    name = "About"
+    weight = -100
+    url = "/about/"
+  [[extra.menu]]
+    name = "Reviews & Interviews"
+    weight = -90
+    url = "/reviews-and-interviews/"
+  [[extra.menu]]
+    name = "Stories and Essays"
+    weight = -80
+    url = "/publications/"
+  [[extra.menu]]
+    name = "Events"
+    weight = -70
+    url = "/events/"
+  [[extra.menu]]
+    name = "Contact"
+    weight = -60
+    url = "/contact/"

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ config.title }}</title>
+    <link rel="stylesheet" href="/css/style.css"/>
+  </head>
+
+  <body{% if section %} id="{{ section.permalink|replace(from="/", to="") }}"{% if section.path == "/" %} class="home"{% endif %}{% endif %}{% if page %} id="{{ page.slug }}"{% endif %}>
+    <div id="page" class="hfeed site">
+      <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+      <header id="masthead" class="site-header" role="banner">
+        <div class="site-branding">
+          <h1 class="site-title"><a href="{{ config.base_url }}" rel="home">{{ config.title }}</a></h1>
+        </div>
+      </header><!-- #masthead -->
+
+      <nav id="site-navigation" class="main-navigation" role="navigation">
+        <div class="menu-menu-1-container">
+          <ul id="menu-menu-1" class="menu">
+            {% for menu_item in config.extra.menu %}
+              <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                <a href="{{ menu_item.url }}">{{ menu_item.name }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </nav><!-- #site-navigation -->
+
+      <div id="content" class="site-content">
+        <div id="primary" class="content-area">
+
+          {% if section and section.path == "/" %}
+            <a class="link-no-decoration" href="/all-the-difference">
+              <img id="all-the-difference-cover" class="book-cover" src="/images/all-the-difference-cover.jpg" alt="All The Difference book front cover">
+            </a>
+          {% endif %}
+
+          <main id="main" class="site-main" role="main">
+
+            <article id="post-58" class="post-58 page type-page status-publish hentry">
+              <header class="entry-header">
+                <h1 class="entry-title">{% block title %}{{ config.title }}{% endblock title %}</h1>
+              </header><!-- .entry-header -->
+
+              <div class="entry-content">
+                {% block content %}{% endblock content %}
+              </div><!-- .entry-content -->
+            </article><!-- #post-## -->
+
+          </main><!-- #main -->
+
+        </div><!-- #primary -->
+
+
+      </div><!-- #content -->
+
+    </div><!-- #page -->
+
+    {% if section and section.path == "/" %}
+      <h2 class="buy-links--headline">Buy The Book</h2>
+      <ul class="buy-links">
+        <li class="buy-link"><a href="https://www.amazon.com/gp/product/099032219X/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=099032219X&SubscriptionId=1MGPYB6YW3HWK55XCGG2">Amazon</a></li> |
+        <li class="buy-link"><a href="https://www.barnesandnoble.com/w/all-the-difference-patricia-horvath/1124727175;jsessionid=28AB9C18B23987E45CA259198B823621.prodny_store02-atgap01?ean=9780990322191&st=AFF&2sid=Goodreads,%20Inc_2227948_NA&sourceId=AFFGoodreads,%20IncM000004">Barnes & Noble</a></li> |
+        <li class="buy-link"><a href="http://www.indiebound.org/book/9780990322191">Indiebound</a></li>
+      </ul>
+    {% endif %}
+
+    {% block scripts %}
+      {# Extra scripts. #}
+    {% endblock %}
+
+  </body>
+</html>

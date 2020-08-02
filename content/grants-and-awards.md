@@ -1,10 +1,10 @@
----
-title: Grants and Awards
-author: admin
-type: page
-date: 2016-07-21T22:41:39+00:00
-
----
++++
+title = "Grants and Awards"
+weight = 100
+author = "admin"
+type = "page"
+date = 2016-07-21T22:41:39+00:00
++++
 
 * Notable Essay of 2015, *Best American Essays, 2016* for "Wrath" (The Los Angeles Review)
 * Literature Fellowship in Fiction, New York Foundation for the Arts, 2015

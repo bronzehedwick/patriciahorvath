@@ -1,6 +1,9 @@
 +++
 title = "Reviews & Interviews"
 date = 2017-07-03T23:34:25-04:00
+weight = 4
+[extra]
+  menu = true
 +++
 
 <div class="column--callout">
