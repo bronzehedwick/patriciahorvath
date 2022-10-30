@@ -103,7 +103,8 @@ body {
 /* Disable the background image for certain pages, for legibility */
 #stories-and-essays,
 #reviews-and-interviews,
-#book {
+#but-now-am-found,
+#all-the-difference {
   background-image: none;
 }
 article,
@@ -232,7 +233,10 @@ dfn, cite, em, i {
   font-style: italic;
 }
 blockquote {
-  margin: 0 1.5em 2em;
+  margin: 2em 1.5em 0;
+}
+cite p {
+  text-indent: 3ch;
 }
 address {
   margin: 0 0 1.5em;
@@ -771,6 +775,17 @@ object {
   box-shadow: 5px 5px 5px #333;
 }
 
+.books {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 1em;
+}
+
+.books a {
+  flex: 1 0 0;
+  border-bottom: none;
+}
+
 /*--------------------------------------------------------------
 12.1 Captions
 --------------------------------------------------------------*/
@@ -871,11 +886,13 @@ object {
   border-top: 1px solid #fff;
 }
 
-#book #page {
+#but-now-am-found #page,
+#all-the-difference #page {
   width: auto;
 }
 
-#book p {
+#but-now-am-found p,
+#all-the-difference p {
   max-width: 800px;
 }
 
@@ -896,7 +913,8 @@ object {
     order: 2;
   }
 
-  #book img {
+  #but-now-am-found img,
+  #all-the-difference img {
     float: right;
     margin-left: 6em;
   }
@@ -978,6 +996,7 @@ object {
   }
 }
 
+#praise,
 #read-an-excerpt {
   text-align: center;
   margin-top: 2em;
@@ -997,23 +1016,33 @@ object {
 }
 
 @media screen and (min-width: 601px) {
-  #book p,
+  #but-now-am-found p,
+  #all-the-difference p,
   #synopsis {
     margin-left: 10vw;
     position: relative;
     top: 100px;
   }
 
-  #book .entry-title {
+  #but-now-am-found cite p,
+  #but-now-am-found blockquote p {
+    position: static;
+    margin-bottom: 0.5em;
+  }
+
+  #but-now-am-found .entry-title,
+  #all-the-difference .entry-title {
     margin-left: 30vw;
   }
 
-  #book p img {
+  #but-now-am-found p img,
+  #all-the-difference p img {
     box-shadow: 5px 5px 5px #333;
     position: relative;
     top: -140px;
   }
 
+  #praise,
   #read-an-excerpt {
     margin-left: 30vw;
   }

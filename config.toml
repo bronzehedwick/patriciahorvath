@@ -23,7 +23,7 @@ build_search_index = false
   [[extra.menu]]
     name = "Book"
     weight = -110
-    url = "/all-the-difference/"
+    url = "/book/"
   [[extra.menu]]
     name = "About"
     weight = -100
