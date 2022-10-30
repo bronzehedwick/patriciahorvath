@@ -29,9 +29,9 @@ build_search_index = false
     weight = -100
     url = "/about/"
   [[extra.menu]]
-    name = "Reviews & Interviews"
+    name = "News & Reviews"
     weight = -90
-    url = "/reviews-and-interviews/"
+    url = "/news-and-reviews/"
   [[extra.menu]]
     name = "Stories and Essays"
     weight = -80

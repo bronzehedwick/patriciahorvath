@@ -103,6 +103,8 @@ body {
 /* Disable the background image for certain pages, for legibility */
 #stories-and-essays,
 #news-and-reviews,
+#all-the-difference-reviews,
+#but-now-am-found-reviews,
 #but-now-am-found,
 #all-the-difference {
   background-image: none;
@@ -869,18 +871,24 @@ object {
   order: -1;
 }
 
+#all-the-difference-reviews #page,
+#but-now-am-found-reviews #page,
 #news-and-reviews #page {
   width: 100%;
 }
 
+#all-the-difference-reviews .entry-content,
+#but-now-am-found-reviews .entry-content,
 #news-and-reviews .entry-content {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
 }
 
-#news-and-reviews cite,
-#news-and-reviews blockquote {
+#all-the-difference-reviews blockquote,
+#but-now-am-found-reviews blockquote,
+#all-the-difference-reviews cite,
+#but-now-am-found-reviews cite {
   display: block;
   max-width: 500px;
   margin-left: auto;
@@ -931,8 +939,10 @@ object {
     width: 73%;
   }
 
-  #news-and-reviews cite,
-  #news-and-reviews blockquote {
+  #all-the-difference-reviews blockquote,
+  #but-now-am-found-reviews blockquote,
+  #all-the-difference-reviews cite,
+  #but-now-am-found-reviews cite {
     flex: 1 0 45%;
   }
 }
