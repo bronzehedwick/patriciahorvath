@@ -87,12 +87,9 @@ html {
 }
 body {
   height: 100%;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(/images/patth_background.jpg);
+  background-image: url(/images/but-now-am-found-bg.jpeg);
   background-color: #958182;
 }
 @media screen and (max-width: 600px) {
@@ -1007,7 +1004,7 @@ object {
     content: '';
     display: inline-block;
     vertical-align: middle;
-    width: 3em;
+    width: 7em;
     height: 1px;
     background-color: #fff;
   }
