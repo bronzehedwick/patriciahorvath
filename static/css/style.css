@@ -102,7 +102,7 @@ body {
 }
 /* Disable the background image for certain pages, for legibility */
 #stories-and-essays,
-#reviews-and-interviews,
+#news-and-reviews,
 #but-now-am-found,
 #all-the-difference {
   background-image: none;
@@ -235,8 +235,12 @@ dfn, cite, em, i {
 blockquote {
   margin: 2em 1.5em 0;
 }
-cite p {
-  text-indent: 3ch;
+blockquote p {
+  margin-bottom: 0.5em;
+}
+cite {
+  font-style: normal;
+  font-weight: 700;
 }
 address {
   margin: 0 0 1.5em;
@@ -865,17 +869,19 @@ object {
   order: -1;
 }
 
-#reviews-and-interviews #page {
+#news-and-reviews #page {
   width: 100%;
 }
 
-#reviews-and-interviews .entry-content {
+#news-and-reviews .entry-content {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
 }
 
-#reviews-and-interviews blockquote {
+#news-and-reviews cite,
+#news-and-reviews blockquote {
+  display: block;
   max-width: 500px;
   margin-left: auto;
   margin-right: auto;
@@ -925,7 +931,8 @@ object {
     width: 73%;
   }
 
-  #reviews-and-interviews blockquote {
+  #news-and-reviews cite,
+  #news-and-reviews blockquote {
     flex: 1 0 45%;
   }
 }
@@ -1027,7 +1034,10 @@ object {
   #but-now-am-found cite p,
   #but-now-am-found blockquote p {
     position: static;
-    margin-bottom: 0.5em;
+  }
+
+  #but-now-am-found cite p {
+    text-indent: 3ch;
   }
 
   #but-now-am-found .entry-title,
