@@ -18,24 +18,28 @@
       </header><!-- #masthead -->
 
       <nav id="site-navigation" class="main-navigation" role="navigation">
-        <div class="menu-menu-1-container">
-          <ul id="menu-menu-1" class="menu">
-            {% for menu_item in config.extra.menu %}
-              <li class="menu-item menu-item-type-post_type menu-item-object-page">
-                <a href="{{ menu_item.url }}">{{ menu_item.name }}</a>
-              </li>
-            {% endfor %}
-          </ul>
-        </div>
+        <ul id="menu-menu-1" class="menu">
+          {% for menu_item in config.extra.menu %}
+            <li class="menu-item menu-item-type-post_type menu-item-object-page">
+              <a href="{{ menu_item.url }}">{{ menu_item.name }}</a>
+            </li>
+          {% endfor %}
+        </ul>
       </nav><!-- #site-navigation -->
 
       <div id="content" class="site-content">
         <div id="primary" class="content-area">
 
           {% if section and section.path == "/" %}
-            <a class="link-no-decoration" href="/book/but-now-am-found">
-              <img class="book-cover" src="/images/but-now-am-found-cover-medium.jpg" alt="But Now Am Found front cover">
-            </a>
+            <div class="book-wrapper">
+              <a class="link-no-decoration" href="/book/but-now-am-found">
+                <img class="book-cover" src="/images/but-now-am-found-cover-medium.jpg" alt="But Now Am Found front cover">
+              </a>
+              <h2 class="buy-links--headline">Buy The Book</h2>
+              <ul class="buy-links">
+                <li class="buy-link"><a href="https://blacklawrencepress.com/books/but-now-am-found/"><em>Black Lawrence Press</em></a></li>
+              </ul>
+            </div>
           {% endif %}
 
           <main id="main" class="site-main" role="main">
@@ -57,14 +61,20 @@
 
       </div><!-- #content -->
 
-    </div><!-- #page -->
+      {% if section and section.path == "/" %}
+        <div class="homepage-quotes">
+          <blockquote cite="https://blacklawrencepress.com/books/but-now-am-found/">
+            <p>Generosity, love, searing beauty shine through Patricia Horvath’s stories, which unfold with the urgency and mystery of being alive.</p>
+          </blockquote>
+          <cite><p>—Martha McPhee, Author of An Elegant Woman</p></cite>
+          <blockquote cite="https://blacklawrencepress.com/books/but-now-am-found/">
+            <p>In exquisite lyric prose, the sharpest of detail, and heartbreaking humor, But Now Am Found gives voice to the abandoned, the silenced, and the shunned women and girls of Patricia Horvath’s stark, and all too familiar, world; these powerful and truly unforgettable characters remind us, in each brilliant sentence, of their—and our—resilience.</p>
+          </blockquote>
+          <cite><p>—Susan Steinberg, Author of Machine</p></cite>
+        </div>
+      {% endif %}
 
-    {% if section and section.path == "/" %}
-      <h2 class="buy-links--headline">Buy The Book</h2>
-      <ul class="buy-links">
-        <li class="buy-link"><a href="https://blacklawrencepress.com/books/but-now-am-found/"><em>Black Lawrence Press</em></a></li>
-      </ul>
-    {% endif %}
+    </div><!-- #page -->
 
     {% block scripts %}
       {# Extra scripts. #}

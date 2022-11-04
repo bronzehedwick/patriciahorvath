@@ -16,24 +16,26 @@ What happens when one’s illusions unravel? This is the question that animates 
 
 <div class="clearfix"></div>
 
-## Praise
+## Read an Excerpt
 
-<blockquote cite="https://blacklawrencepress.com/books/but-now-am-found/">
-  <p>Generosity, love, searing beauty shine through Patricia Horvath’s stories, which unfold with the urgency and mystery of being alive.</p>
-</blockquote>
-<cite><p>—Martha McPhee, Author of An Elegant Woman</p></cite>
+<div class="excerpt">
 
-<blockquote cite="https://blacklawrencepress.com/books/but-now-am-found/">
-  <p>In spare, precisely detailed prose, Patricia Horvath delivers a moving collection of stories that roam the low tides of life — the chemo ward, the stepchild’s realization that she’s unwanted baggage, the loss of a beloved parent — with a keen eye for small tendernesses that, if they don’t redeem, truly soften life’s blows.</p>
-</blockquote>
-<cite><p>—Heather Harpham, Author of Happiness: The Crooked Little Road to Semi-Ever After</p></cite>
+<h3>Sunrise</h3>
 
-<blockquote cite="https://blacklawrencepress.com/books/but-now-am-found/">
-  <p>In exquisite lyric prose, the sharpest of detail, and heartbreaking humor, But Now Am Found gives voice to the abandoned, the silenced, and the shunned women and girls of Patricia Horvath’s stark, and all too familiar, world; these powerful and truly unforgettable characters remind us, in each brilliant sentence, of their—and our—resilience.</p>
-</blockquote>
-<cite><p>—Susan Steinberg, Author of Machine</p></cite>
+She turns in bed, too early to rise, the sky sickly yellow, red-rimmed. Red in the morning, sailors take warning. But she is not adrift, mattress firm beneath her, box springs, bed frame, concrete floor. She has risen too early is all, tossing and turning through a sleepless night, no particular reason, the occasional mild disturbance she attributes to age. The sun has not risen, curious phrase, the sun as we know neither rising nor setting, fixed in the sky, unmoving, planets spinning around it, turning and turning on their axes. She does not feel this, of course, the earth’s rotation; such a thing would be intolerable, the unceasing sensation of movement, the constant reminder of time.
 
-<blockquote cite="https://blacklawrencepress.com/books/but-now-am-found/">
-  <p>Rarely have I enjoyed a story collection as much as Patricia’s Horvath’s But Now Am Found, a book that deepens and refines itself with every title as a sculpture’s knife does stone. From the titular story to the final line, Horvath constantly reverts expectations, altering not only what it means to be lost or found, but constantly surprising with last-minute tragedies, rescues, reversals. These are the types of stories that send you back to the beginning again, eager to reread, explore. And even as the stories step into the male point of view, the gaze here remains purely, refreshening female. Seldom does a collection mine the complexities of the human heart with such wit and pathos, such confidence of vision, as this.</p>
-</blockquote>
-<cite><p>—Michelle Hoover, author of The Quickening and Bottomland</p><cite>
+The day has not taken a turn for the worse, figure of speech, but still. The phone has not yet rung, no reason to be awake so early in the morning, a Sunday, the second in May, the one with flowers and cards.
+
+She lies still. She thinks of her son.
+
+He is driving now, moving back home, another year of college completed, exams taken, courses passed. Suitcases in the well, music playing, sun in his eyes. He has left early, driving for hours, passing borders, towns then states. Too soon yet to turn off the highway, too soon to stop for coffee, for gas, a quick pee—Hey, your lights are on!—thanking the attendant, looking away just long enough to do that, to switch them off, not seeing the driver, the other car running a light, looking up too late, blinded by the sun.
+
+---
+
+In bed, the woman tosses and turns. Morning has not yet begun; she knows she should sleep but the thought of him, alone on the still dark road, causes something to rise in her, some feeling she must quell. Her fears inchoate, not concrete, she cannot put a name to them. Sleep is all, sleep is what she needs.
+
+She turns on the light.
+
+Soon he will be here, the phone has not rung, and though she cannot feel it, the earth is still moving, no way to make this moment stop, though later, sooner than she can know, that is all she will want.
+
+</div>
