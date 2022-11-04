@@ -21,7 +21,7 @@ build_search_index = false
 # Put all your custom variables here
 [extra]
   [[extra.menu]]
-    name = "Book"
+    name = "Books"
     weight = -110
     url = "/book/"
   [[extra.menu]]
