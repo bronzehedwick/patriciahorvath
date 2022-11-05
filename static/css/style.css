@@ -452,6 +452,7 @@ a:active {
 --------------------------------------------------------------*/
 .main-navigation ul {
   display: flex;
+  flex-flow: row wrap;
   justify-content: center;
   list-style: none;
   margin: 0;
@@ -663,6 +664,11 @@ a:active {
 /*--------------------------------------------------------------
 10.0 Content
 --------------------------------------------------------------*/
+@media screen and (min-width: 60em) {
+  #about .site-content {
+    margin-top: 4rem;
+  }
+}
 /*--------------------------------------------------------------
 10.1 Posts and pages
 --------------------------------------------------------------*/
@@ -826,6 +832,10 @@ object {
 
 .home #content {
   order: -1;
+}
+
+.home .book-cover {
+  width: 400px;
 }
 
 #all-the-difference-reviews #page,
