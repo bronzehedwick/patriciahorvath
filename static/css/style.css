@@ -514,6 +514,19 @@ a:active {
 .home .main-navigation li a {
   padding: 1rem;
 }
+.home .buy-links--headline,
+.home .buy-links a {
+  color: black;
+  text-shadow: 1px 1px white;
+  border-bottom-color: black;
+}
+.home .buy-links::before,
+.home .buy-links::after {
+  background-color: black;
+}
+.home .buy-links a:hover {
+  color: #226914;
+}
 /* Small menu */
 .menu-toggle {
   display: none;
@@ -947,13 +960,14 @@ object {
   list-style-type: none;
   font-size: 1.1em;
   margin: 0 auto;
+  width: 100%;
 }
 
 .buy-link {
   display: inline-block;
 }
 
-@media screen and (min-width: 601px) {
+@media screen and (min-width: 965px) {
   .buy-links:after,
   .buy-links:before {
     content: '';
@@ -976,6 +990,13 @@ object {
   border-bottom: 2px dotted;
 }
 
+@media screen and (min-width: 965px) {
+  #praise,
+  #read-an-excerpt {
+    margin-top: 4em;
+  }
+}
+
 .excerpt {
   max-width: 80em;
   margin: 0 auto;
@@ -987,14 +1008,21 @@ object {
   line-height: 1.6;
 }
 
-@media screen and (min-width: 601px) {
+@media screen and (max-width: 964px) {
+  #but-now-am-found .buy-links,
+  #all-the-difference .buy-links {
+    margin-bottom: 1em;
+  }
+}
+
+@media screen and (min-width: 965px) {
   #but-now-am-found p,
   #all-the-difference p,
   #synopsis {
     width: 100%;
-    margin-left: 10vw;
     position: relative;
-    top: 100px;
+    top: 10vw;
+    margin-left: 10vw;
   }
 
   #but-now-am-found cite p,
@@ -1010,7 +1038,7 @@ object {
   #all-the-difference p img {
     box-shadow: 5px 5px 5px #333;
     position: relative;
-    top: -140px;
+    top: -10.4vw;
   }
 
   .excerpt p {
