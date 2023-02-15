@@ -8,7 +8,9 @@ weight = 8
 +++
 
 Tuesday, February 7, 2023, 8:00 p.m. (EST)  
-Interview with David Fettig of Write On!
+Interview with David Fettig, Host of Write On! Radio  
+KFAI, Minneapolis, MN  
+[Broadcast recording](https://www.kfai.org/player/?episode_id=42553)
 
 Tuesday, February 28, 2023, 8:00 p.m. (EST)  
 Black Lawrence Press Zoom Reading with R Cathey Daniels  
