@@ -993,9 +993,12 @@ object {
 
 @media screen and (min-width: 965px) {
   #praise,
-  #read-another-excerpt,
   #read-an-excerpt {
     margin-top: 4em;
+  }
+
+  #read-another-excerpt {
+    margin-top: 5em;
   }
 }
 
@@ -1074,14 +1077,10 @@ object {
   flex: 1 1 100%;
 }
 
-.clearfix:after {
+.clearfix::after {
   content: "";
   display: table;
   clear: both;
-}
-
-.indent {
-  margin-left: 5ch;
 }
 
 /*--------------------------------------------------------------

@@ -11,13 +11,15 @@ path = "book/but-now-am-found"
 
 ## Synopsis
 
-![All The Difference front cover](/images/but-now-am-found-cover-medium.jpg)
-What happens when one’s illusions unravel? This is the question that animates Patricia Horvath’s debut story collection, _But Now Am Found_. A young man experiences heartbreak for the first time when his girlfriend rejects him on religious grounds. One woman fixates on a crossword puzzle to avoid thinking about her missing daughter while another, in a deeply troubled marriage, gives birth. The characters in these stories struggle to make sense of upheaval in their lives. _But Now Am Found_ is a compelling exploration of the human spirit confronted by abrupt and rending change.  
-<a class="indent" href="https://blacklawrencepress.com/wp-content/uploads/9781625570352.pdf">Peek Inside the Book</a>
+<div class="synopsis">
+  <img src="/images/but-now-am-found-cover-medium.jpg" alt="All The Difference front cover">
+  <p>What happens when one’s illusions unravel? This is the question that animates Patricia Horvath’s debut story collection, <em>But Now Am Found</em>. A young man experiences heartbreak for the first time when his girlfriend rejects him on religious grounds. One woman fixates on a crossword puzzle to avoid thinking about her missing daughter while another, in a deeply troubled marriage, gives birth. The characters in these stories struggle to make sense of upheaval in their lives. <em>But Now Am Found</em> is a compelling exploration of the human spirit confronted by abrupt and rending change.</p>
+  <p><a href="https://blacklawrencepress.com/wp-content/uploads/9781625570352.pdf">Peek Inside the Book</a></p>
+</div>
 
 <div class="clearfix"></div>
 
-## Read Another Excerpt
+## Read another Excerpt
 
 <div class="excerpt">
 
