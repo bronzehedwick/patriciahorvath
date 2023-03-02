@@ -14,9 +14,10 @@ KFAI, Minneapolis, MN
 
 Tuesday, February 28, 2023, 8:00 p.m. (EST)  
 Black Lawrence Press Zoom Reading with R Cathey Daniels  
-To register: [https://us02web.zoom.us/meeting/register/tZMtfu-srDgoGtVaVJ83IrGfxn9XR0sUAG6_](https://us02web.zoom.us/meeting/register/tZMtfu-srDgoGtVaVJ83IrGfxn9XR0sUAG6_)
+To register: <https://us02web.zoom.us/rec/share/lz_ltjcUs9UdnWfcKkfuarJ-kFlq5jV7_O9A3xJeqjWth1B7WsufRTvudAzm7oO0.P3Whj2OfZyUhHc0W>  
+Passcode: `v%@PMp91`
 
 Thursday, March 23, 2023, 7:00 p.m. (EST)  
 Reading and Book Signing at Porter Square Books  
 23 WHITE ST, CAMBRIDGE, MA 02140  
-<a href="tel:16174912220">617–491–2220</a>
+<https://www.portersquarebooks.com/event/patricia-horvath-author-now-am-found-michelle-hoover>
