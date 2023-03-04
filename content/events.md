@@ -14,7 +14,8 @@ KFAI, Minneapolis, MN
 
 Tuesday, February 28, 2023, 8:00 p.m. (EST)  
 Black Lawrence Press Zoom Reading with R Cathey Daniels  
-To register: <https://us02web.zoom.us/rec/share/lz_ltjcUs9UdnWfcKkfuarJ-kFlq5jV7_O9A3xJeqjWth1B7WsufRTvudAzm7oO0.P3Whj2OfZyUhHc0W>  
+Listen to Broadcast:  
+<https://us02web.zoom.us/rec/share/lz_ltjcUs9UdnWfcKkfuarJ-kFlq5jV7_O9A3xJeqjWth1B7WsufRTvudAzm7oO0.P3Whj2OfZyUhHc0W>  
 Passcode: `v%@PMp91`
 
 Thursday, March 23, 2023, 7:00 p.m. (EST)  
