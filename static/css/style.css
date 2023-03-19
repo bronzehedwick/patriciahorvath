@@ -520,6 +520,16 @@ a:active {
   text-shadow: 1px 1px white;
   border-bottom-color: black;
 }
+.home .buy-links,
+.home .buy-links--headline {
+  text-align: center;
+}
+.home .buy-links--headline {
+  margin-top: 0;
+}
+.home .buy-links {
+  margin-bottom: 2em;
+}
 .home .buy-links::before,
 .home .buy-links::after {
   background-color: black;
