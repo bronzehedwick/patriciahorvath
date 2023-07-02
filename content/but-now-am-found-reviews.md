@@ -36,3 +36,13 @@ path = "news-and-reviews/but-now-am-found"
 <cite><p>—Michelle Hoover, author of The Quickening and Bottomland</p><cite>
 
 </div>
+
+<div>
+
+---
+
+## Read reviews
+
+- [Allison Kornet, The Los Angeles Review](https://losangelesreview.org/book-by-patricia-horvath-review-by-allison-kornet/)
+
+</div>
