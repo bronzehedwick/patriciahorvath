@@ -7,6 +7,11 @@ weight = 8
   menu = true
 +++
 
+Thursday, March 23, 2023, 2:00 PM (EST)  
+Interview with Ken Jones, Host of “Jonesy,”  
+KBOO-FM, Portland, OR  
+[Broadcast recording](https://kboo.org/media/115008-patricia-horvath-author-now-am-found)
+
 Tuesday, February 7, 2023, 8:00 p.m. (EST)  
 Interview with David Fettig, Host of Write On! Radio  
 KFAI, Minneapolis, MN  
