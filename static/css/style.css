@@ -432,7 +432,7 @@ textarea {
 --------------------------------------------------------------*/
 a {
   text-decoration: none;
-  border-bottom: #fff 0.1rem dotted;
+  border-bottom: currentColor 0.1rem dotted;
 }
 a:link,
 a:visited {
@@ -1091,6 +1091,14 @@ object {
   content: "";
   display: table;
   clear: both;
+}
+
+#events .entry-content {
+  color: black;
+}
+
+:where(#events .entry-content) a:not(:hover) {
+  color: black;
 }
 
 /*--------------------------------------------------------------
