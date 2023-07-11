@@ -9,6 +9,10 @@ weight = 8
 
 ![Celebrate the transporting power of the short story, in fiction and in fact. With authors: Patricia Horvath & Sarah Towle. Readings followed by conversation and Q&A. Thursday, July 13th, 2023 390A 6th Avenue Park Slope, Brooklyn. Doors open: 7:30pm garden level. Bring your own drinks and seat cushion.](/images/patti-and-sarah.png)
 
+[Monday, June 19, 7:30 PM  
+Reading and Book Signing at Amharclann Theater  
+Gweedore, County Donegal, Ireland](/images/amharclann-flyer.jpg)  
+
 Thursday, March 23, 2023, 2:00 PM (EST)  
 Interview with Ken Jones, Host of “Jonesy,”  
 KBOO-FM, Portland, OR  
@@ -22,8 +26,7 @@ KFAI, Minneapolis, MN
 Tuesday, February 28, 2023, 8:00 p.m. (EST)  
 Black Lawrence Press Zoom Reading with R Cathey Daniels  
 Listen to Broadcast:  
-<https://us02web.zoom.us/rec/share/lz_ltjcUs9UdnWfcKkfuarJ-kFlq5jV7_O9A3xJeqjWth1B7WsufRTvudAzm7oO0.P3Whj2OfZyUhHc0W>  
-Passcode: `v%@PMp91`
+<https://www.youtube.com/watch?v=Ki_idsrZD4E>  
 
 Thursday, March 23, 2023, 7:00 p.m. (EST)  
 Reading and Book Signing at Porter Square Books  
