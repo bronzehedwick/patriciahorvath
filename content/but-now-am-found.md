@@ -6,7 +6,7 @@ path = "book/but-now-am-found"
 +++
 
 <ul class="buy-links">
-  <!-- <li class="buy-link"><a href="https://blacklawrencepress.com/books/but-now-am-found/">Buy from <em>Black Lawrence Press</em></a></li> -->
+  <li class="buy-link"><a href="https://blacklawrencepress.com/books/but-now-am-found/">Black Lawrence Press</a></li> |
   <li class="buy-link"><a href="https://www.powells.com/book/but-now-am-found-9781625570352">Powell’s Books</a></li> |
   <li class="buy-link"><a href="https://www.amazon.com/But-Now-Found-Patricia-Horvath/dp/162557035X/ref=sr_1_1?crid=32R75224MK4QO&keywords=But+Now+AM+Found+horvath&qid=1679017849&sprefix=but+now+am+found+horvath%2Caps%2C92&sr=8-1">Amazon</a></li> |
   <li class="buy-link"><a href="https://www.barnesandnoble.com/w/but-now-am-found-patricia-horvath/1143048290?ean=9781625570352">Barnes & Noble</a></li> |

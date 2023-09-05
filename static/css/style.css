@@ -983,7 +983,7 @@ object {
     content: '';
     display: inline-block;
     vertical-align: middle;
-    width: 7em;
+    width: 1em;
     height: 1px;
     background-color: #fff;
   }
