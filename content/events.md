@@ -7,7 +7,11 @@ weight = 8
   menu = true
 +++
 
-![Celebrate the transporting power of the short story, in fiction and in fact. With authors: Patricia Horvath & Sarah Towle. Readings followed by conversation and Q&A. Thursday, July 13th, 2023 390A 6th Avenue Park Slope, Brooklyn. Doors open: 7:30pm garden level. Bring your own drinks and seat cushion.](/images/patti-and-sarah.png)
+Sunday, October 1st  
+3:00–4:00 PM  
+Book Signing, Brooklyn Book Festival  
+Black Lawrence Press Table  
+<https://brooklynbookfestival.org/>
 
 [Monday, June 19, 7:30 PM  
 Reading and Book Signing at Amharclann Theater  
