@@ -7,6 +7,11 @@ weight = 8
   menu = true
 +++
 
+[Thursday, November 30th  
+6:00pm–8:00pm EST  
+In Conversation with author Marita Golden (zoom event)](/images/scholarship-creative-showcase-poster.pdf)  
+<https://us02web.zoom.us/j/88533803300>
+
 Sunday, October 1st  
 3:00–4:00 PM  
 Book Signing, Brooklyn Book Festival  
