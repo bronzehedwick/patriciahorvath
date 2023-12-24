@@ -1,6 +1,9 @@
 # The URL the site will be built for
 base_url = "https://patricialhorvath.com/"
 
+# "docs" is one of the valid namespace options for Github pages.
+output_dir = "docs"
+
 # The site title and description; used in feeds by default.
 title = "Patricia Horvath"
 description = ""
