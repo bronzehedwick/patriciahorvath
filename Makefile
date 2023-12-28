@@ -7,10 +7,10 @@ build: ## Runs `zola`.
 	@zola build
 
 clean: ## Remove build directory.
-	@if [ -d public ]; then rm -rf public; fi && mkdir public
+	@if [ -d docs ]; then rm -rf docs; fi && mkdir docs
 
 sync: ## Push built site to the server.
-	@rsync --recursive --delete --rsh=ssh --exclude=".*" --quiet public/ waitstaff_deploy:/usr/local/www/patricialhorvath.com
+	@rsync --recursive --delete --rsh=ssh --exclude=".*" --quiet docs/ waitstaff_deploy:/usr/local/www/patricialhorvath.com
 
 web: clean build sync ## Build and sync to the server.
 
