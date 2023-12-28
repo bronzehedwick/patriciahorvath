@@ -59,6 +59,7 @@ path = "news-and-reviews/but-now-am-found"
 
 ## Read Author Interviews about But Now Am Found
 
+- [Interview with Marita Golden](https://framingham.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=878f7366-5127-441b-9f11-b0cf00c2796b)
 - [KBOO-FM, Portland, OR, Interview with Ken Jones, Host of “Jonesy,”](https://kboo.org/media/115008-patricia-horvath-author-now-am-found)
 - [ KFAI, Minneapolis, MN, Interview with David Fettig, Host of Write On! Radio ](https://www.kfai.org/player/?episode_id=42553)
 - [Black Lawrence Press Zoom Reading with R Cathey Daniels](https://www.youtube.com/watch?v=Ki_idsrZD4E)
