@@ -1118,3 +1118,11 @@ input, textarea {
 textarea {
   height: 10em;
 }
+
+/*-----------------------
+18.0 - Custom
+-----------------------*/
+
+#stories-and-essays ul {
+  line-height: 2;
+}
